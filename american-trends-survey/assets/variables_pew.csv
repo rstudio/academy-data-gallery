@@ -1,0 +1,12 @@
+variable,description
+id,Survey respondent identifier
+region,Region
+race,Race and ethnicity
+education,Educational attainment level
+sex,Sex
+party,Political party affiliation
+age,Age bucket
+impt_protest,Respondent's opinion on how important it is that people are free to peacefully protest in the US
+impt_succeed,Respondent's opinion on how important it is that everyone has an equal opportunity to succeed in the US
+impt_respect,Respondent's opinion on how important it is that the rights and freedoms of all people are respected in the US
+weight_w71,Survey weight

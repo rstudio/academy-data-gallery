@@ -1,0 +1,13 @@
+variable,description
+credit_amount,Credit amount in Deutsche Mark (DEM)
+age,Age in years
+personal_status,Marriage status and sex
+job,Type of job
+employment,Years since the present employment started
+savings_status,Amount in DEM in savings account/bonds
+housing,Housing status
+residence_since,Present residence since
+property_magnitude,Property type
+num_dependents,Number of dependents
+own_telephone,If an applicant owns a telephone
+foreign_worker,If an applicant is a foreign worker

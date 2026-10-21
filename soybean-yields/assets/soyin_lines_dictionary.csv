@@ -1,0 +1,22 @@
+﻿variable,description
+year       ,Year
+environ    ,Environment (combination of year and location)
+strain     ,Genetic strain
+family     ,Genetic family
+set        ,Microenvironment
+BLOCK      ,Block (spatial coordinates of the field plots)
+ROW        ,Row (spatial coordinates of the field plots)
+COL        ,Column (spatial coordinates of the field plots)
+height     ,Plant height (centimeters)
+R1        ,Number of days to flowering
+R8         ,Number of days to maturity (stage R8 = 95% of pods are fully mature)
+lodging    ,Lodging score (1 = all plants erect; 5 = all plants prostrate)
+yield      ,Grain yield (Kg/ha)
+LeafShape  ,Ratio of leaf length to leaf width
+Nodes      ,Number of nodes in the main stem
+Pods       ,Number of pods in the main stem
+Pods.Node ,Number of pods per node
+AvgCC      ,Average canopy coverage
+RateCC     ,Rate of canopy coverage
+GDD_R1    ,Growing degree day to flowering
+GDD_R8,Growing degree day to maturity

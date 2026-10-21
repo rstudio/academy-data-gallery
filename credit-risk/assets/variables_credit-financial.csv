@@ -1,0 +1,10 @@
+variable,description
+checking,Status of existing checking account
+duration,Duration of credit in month
+credit_history,Credit history
+purpose,Purpose for credit
+installment_commitment,Installment rate in percentage of disposable income
+other_parties,Other debtors / guarantors
+other_payment_plans,Other installment plans
+existing_credits,Number of existing credits at this bank
+class,Classification of good (1) or bad (2) credit risk

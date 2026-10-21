@@ -1,0 +1,11 @@
+variable, description
+ptid,"Patient identifier"
+gfr,"Glomerular filtration rate in ml/min/1.73 m^2^. A measure of how much blood the kidneys filter per minute"
+months,"Number of months after the start of the study that the measurement was taken."
+dietl_normbp,"Was the participant assigned to the low-protein, normal-blood pressure diet? (0 = No, 1 = Yes)"
+dietl_lowbp,"Was the participant assigned to the low-protein, low-blood pressure diet? (0 = No, 1 = Yes)"
+dietk_normbp,"Was the participant assigned to the very low-protein, normal-blood pressure diet? (0 = No, 1 = Yes)"
+dietk_lowbp,"Was the participant assigned to the very low-protein, low-blood pressure diet? (0 = No, 1 = Yes)"
+log_protein,"Logarithm of the grams of protein consumed per day."
+followupmonths,"Number of months until patient follow-up."
+dropout,"Did the patient drop out of the study? (0 = No, 1 = Yes)"

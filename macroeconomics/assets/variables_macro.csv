@@ -1,0 +1,12 @@
+variable,description
+year,Observation year
+month,Observation month
+day,Observation day
+inflation_rate, US inflation rates
+real_rate,"Real interest rate, Not seasonally adjusted"
+nom_rate,"Nominal interest rate, also called federal funds effective rate, Not seasonally adjusted"
+unrate,"Unemployment rate, Seasonally Adjusted"
+cpi_all,"Consumer Price Index for All Urban Consumers: All items in U.S. City Average, Index 1982-1984=100, Monthly, Seasonally Adjusted"
+cpi_durables,"Consumer Price Index for All Urban Consumers: Durables in U.S. City Average, Index 1982-1984=100, Monthly, Seasonally Adjusted"
+cpi_nondurables,"Consumer Price Index for All Urban Consumers: Nondurables in U.S. City Average, Index 1982-1984=100, Monthly, Seasonally Adjusted"
+cpi_services,"Consumer Price Index for All Urban Consumers: Services in U.S. City Average, Index 1982-1984=100, Monthly, Seasonally Adjusted"

@@ -1,0 +1,8 @@
+variable,description
+symbol,"Stock symbol"
+company,"Company name"
+identifier,"Company's identifier number"
+sedol,"Stock Exchange Daily Official List identifier"
+low,"Lowest traded price of the stock on the date (dollars)"
+sector,"Industry sector"
+shares_held,"Shares held by the DJIA"

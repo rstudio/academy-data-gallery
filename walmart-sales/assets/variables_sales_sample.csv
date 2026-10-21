@@ -1,0 +1,6 @@
+variable,description
+item_id,The id of the product
+dept_id,The id of the department the product belongs to
+cat_id,The id of the category the product belongs to
+order_quantity,The quantity of product ordered
+sell_price,"The price of the product for the given week/store. The price is provided per week (average across seven days). If not available, this means that the product was not sold during the examined week. Note that although prices are constant at weekly basis, they may change through time (both training and test set)."

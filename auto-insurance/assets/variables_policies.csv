@@ -1,0 +1,13 @@
+variable,description
+policy_id,Policy ID
+num_claims,Number of claims during exposure period
+exposure,Exposure (potential for accidents) in car years
+area,Area code of insured vehicle
+vehicle_power,Power of the car
+vehicle_age,Vehicle age in years
+driver_age,Age of insured driver
+bonus_malus,"Bonus/malus, between 50 and 350: <100 means bonus and >100 means malus"
+vehicle_brand,Anonymized categories for the brand of the vehicle
+vehicle_gas,"Gasoline type, either diesel or regular"
+density,Population density of the garage area code in people per km^2
+region,Policy region in France (1970-2015 classification)

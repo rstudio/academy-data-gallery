@@ -1,0 +1,6 @@
+variable,description
+item_id,The id of the product
+dept_id,The id of the department the item belongs to
+cat_id,The id of the category the item belongs to
+order_quantity,Total quantity ordered of each item
+sell_price,The mean price of each item

@@ -1,0 +1,280 @@
+year,fuel_type,number_of_vehicles,weight_class,vehicle_type,engine_configuration
+2017,Electricity (EVC),21,Heavy Duty,Buses (Intercity Buses),Nonhybrid
+2017,Electricity (EVC),7,Medium Duty,Other Trucks,Nonhybrid
+2017,Electricity (EVC),30,Heavy Duty,Buses (Transit Buses),Nonhybrid
+2017,Electricity (EVC),11,Heavy Duty,Other Trucks,Nonhybrid
+2017,Electricity (EVC),7267,Light Duty,Automobiles (Compact),Nonhybrid
+2017,Electricity (EVC),54715,Light Duty,Automobiles (Fullsize),Nonhybrid
+2017,Electricity (EVC),12014,Light Duty,Automobiles (Midsize),Nonhybrid
+2017,Electricity (EVC),25355,Light Duty,Automobiles (Subcompact),Nonhybrid
+2017,Electricity (EVC),12,Light Duty,Other Vehicles,Nonhybrid
+2017,Electricity (EVC),48734,Light Duty,"Other Trucks (SUVs < 8,500 lbs)",Nonhybrid
+2017,Electricity (EVC),17359,Light Duty,Automobiles (Compact),Hybrid
+2017,Electricity (EVC),54128,Light Duty,Automobiles (Midsize),Hybrid
+2017,Electricity (EVC),8143,Light Duty,Vans (Small Passenger Vans),Hybrid
+2017,Electricity (EVC),3,Light Duty,"Other Trucks (SUVs < 8,500 lbs)",Hybrid
+2017,Electricity (EVC),78,Heavy Duty,Buses (Transit Buses),Nonhybrid
+2016,Electricity (EVC),3,Heavy Duty,Buses (Transit Buses),Nonhybrid
+2016,Electricity (EVC),37,Heavy Duty,Buses (Transit Buses),Nonhybrid
+2016,Electricity (EVC),121,Heavy Duty,Buses (Transit Buses),Nonhybrid
+2016,Electricity (EVC),1,Heavy Duty,Other Trucks,Nonhybrid
+2016,Electricity (EVC),8905,Light Duty,Automobiles (Compact),Nonhybrid
+2016,Electricity (EVC),50665,Light Duty,Automobiles (Fullsize),Nonhybrid
+2016,Electricity (EVC),3,Medium Duty,Other Trucks,Nonhybrid
+2016,Electricity (EVC),4830,Light Duty,Automobiles (Subcompact),Nonhybrid
+2016,Electricity (EVC),6,Light Duty,Other Vehicles,Nonhybrid
+2016,Electricity (EVC),26900,Light Duty,"Other Trucks (SUVs < 8,500 lbs)",Nonhybrid
+2016,Electricity (EVC),28153,Light Duty,Automobiles (Compact),Hybrid
+2016,Electricity (EVC),26892,Light Duty,Automobiles (Midsize),Hybrid
+2016,Electricity (EVC),13675,Light Duty,Automobiles (Midsize),Nonhybrid
+2015,Electricity (EVC),50389,Light Duty,Automobiles (Fullsize),Dedicated
+2015,Electricity (EVC),1,Heavy Duty,Buses (Intercity Buses),Dedicated
+2015,Electricity (EVC),15,Heavy Duty,Buses (Transit Buses),Dedicated
+2015,Electricity (EVC),141,Heavy Duty,Buses (Transit Buses),Dedicated
+2015,Electricity (EVC),11189,Light Duty,Automobiles (Compact),Dedicated
+2015,Electricity (EVC),2,Medium Duty,Other Trucks,Dedicated
+2015,Electricity (EVC),1645,Light Duty,Automobiles (Subcompact),Dedicated
+2015,Electricity (EVC),6,Light Duty,Other Vehicles,Dedicated
+2015,Electricity (EVC),231,Light Duty,"Other Trucks (SUVs < 8,500 lbs)",Dedicated
+2015,Electricity (EVC),13607,Light Duty,Automobiles (Compact),Nondedicated
+2015,Electricity (EVC),23590,Light Duty,Automobiles (Midsize),Nondedicated
+2015,Electricity (EVC),17744,Light Duty,Automobiles (Midsize),Dedicated
+2014,Electricity (EVC),1,Heavy Duty,Buses (Intercity Buses),Dedicated
+2014,Electricity (EVC),20,Heavy Duty,Buses (Transit Buses),Dedicated
+2014,Electricity (EVC),8,Heavy Duty,Buses (Transit Buses),Dedicated
+2014,Electricity (EVC),10058,Light Duty,Automobiles (Compact),Dedicated
+2014,Electricity (EVC),31159,Light Duty,Automobiles (Midsize),Dedicated
+2014,Electricity (EVC),2,Medium Duty,Other Trucks,Dedicated
+2014,Electricity (EVC),6,Light Duty,Other Vehicles,Dedicated
+2014,Electricity (EVC),25,Light Duty,Other Trucks (SUVs < 8500 lbs),Dedicated
+2014,Electricity (EVC),19115,Light Duty,Automobiles (Compact),Nondedicated
+2014,Electricity (EVC),30249,Light Duty,Automobiles (Midsize),Nondedicated
+2014,Electricity (EVC),1951,Light Duty,Automobiles (Subcompact),Dedicated
+2013,Electricity (EVC),6,Heavy Duty,Buses (Transit Buses),Dedicated
+2013,Electricity (EVC),21458,Light Duty,Automobiles (Compact),Nondedicated
+2013,Electricity (EVC),74553,Light Duty,Automobiles (Midsize),Nondedicated
+2013,Electricity (EVC),2,Medium Duty,Other Trucks,Dedicated
+2013,Electricity (EVC),1100,Light Duty,Other Trucks (SUVs < 8500 lbs),Dedicated
+2013,Electricity (EVC),25897,Light Duty,Automobiles (Midsize),Dedicated
+2013,Electricity (EVC),2228,Light Duty,Automobiles (Subcompact),Dedicated
+2013,Electricity (EVC),6,Light Duty,Other Vehicles,Dedicated
+2013,Electricity (EVC),5073,Light Duty,Automobiles (Compact),Dedicated
+2012,Electricity (EVC),935,Light Duty,Automobiles (Compact),Dedicated
+2012,Electricity (EVC),21156,Light Duty,Automobiles (Compact),Nondedicated
+2012,Electricity (EVC),12600,Light Duty,Automobiles (Midsize),Nondedicated
+2012,Electricity (EVC),2,Medium Duty,Other Trucks,Dedicated
+2012,Electricity (EVC),127,Light Duty,Automobiles (Subcompact),Dedicated
+2012,Electricity (EVC),1506,Light Duty,Other Vehicles,Dedicated
+2012,Electricity (EVC),200,Light Duty,Other Trucks (SUVs < 8500 lbs),Dedicated
+2012,Electricity (EVC),10098,Light Duty,Automobiles (Midsize),Dedicated
+2011,Electricity (EVC),13628,Light Duty,Automobiles (Compact),Dedicated
+2011,Electricity (EVC),9948,Light Duty,Automobiles (Midsize),Dedicated
+2011,Electricity (EVC),2,Medium Duty,Other Trucks,Dedicated
+2011,Electricity (EVC),264,Light Duty,Other Vehicles,Dedicated
+2011,Electricity (EVC),405,Light Duty,Vans (Passenger/Cargo Vans < 8500 lbs),Dedicated
+2011,Electricity (EVC),1135,Light Duty,Other Vehicles,Dedicated
+2010,Electricity (EVC),1,Light Duty,Pickup Trucks (Pickups < 8500 lbs),Dedicated
+2010,Electricity (EVC),3,Medium Duty,Other Trucks,Dedicated
+2010,Electricity (EVC),264,Light Duty,Other Vehicles,Dedicated
+2010,Electricity (EVC),8,Light Duty,Automobiles (Midsize),Dedicated
+2010,Electricity (EVC),1948,Light Duty,Other Vehicles,Dedicated
+2010,Electricity (EVC),5,Heavy Duty,Buses (Transit Buses),Dedicated
+2009,Electricity (EVC),1,Light Duty,Pickup Trucks (Pickups < 8500 lbs),Dedicated
+2009,Electricity (EVC),4,Medium Duty,Other Trucks,Dedicated
+2009,Electricity (EVC),25,Heavy Duty,Buses (Transit Buses),Dedicated
+2009,Electricity (EVC),2,Light Duty,Vans (Passenger/Cargo Vans < 8500 lbs),Dedicated
+2009,Electricity (EVC),264,Light Duty,Other Vehicles,Dedicated
+2009,Electricity (EVC),1,Light Duty,Pickup Trucks (Pickups < 8500 lbs),Dedicated
+2009,Electricity (EVC),1958,Light Duty,Other Vehicles,Dedicated
+2008,Electricity (EVC),1,Light Duty,Pickup Trucks (Pickups < 8500 lbs),Dedicated
+2008,Electricity (EVC),4,Medium Duty,Other Trucks,Dedicated
+2008,Electricity (EVC),381,Light Duty,Other Vehicles,Dedicated
+2008,Electricity (EVC),37,Heavy Duty,Buses (Transit Buses),Dedicated
+2008,Electricity (EVC),2358,Light Duty,Other Vehicles,Dedicated
+2008,Electricity (EVC),21,Heavy Duty,Buses (Transit Buses),Dedicated
+2007,Electricity (EVC),187,Heavy Duty,Buses (Transit Buses),Dedicated
+2007,Electricity (EVC),2581,Light Duty,Other Vehicles,Dedicated
+2007,Electricity (EVC),1,Heavy Duty,Buses (Transit Buses),Dedicated
+2007,Electricity (EVC),3,Medium Duty,Other Trucks,Dedicated
+2007,Electricity (EVC),380,Light Duty,Other Vehicles,Dedicated
+2006,Electricity (EVC),3,Medium Duty,Other Trucks,Dedicated
+2006,Electricity (EVC),1,Heavy Duty,Buses (Transit Buses),Dedicated
+2006,Electricity (EVC),100,Light Duty,Other Vehicles,Dedicated
+2006,Electricity (EVC),2424,Light Duty,Other Vehicles,Dedicated
+2006,Electricity (EVC),187,Heavy Duty,Buses (Transit Buses),Dedicated
+2005,Electricity (EVC),1,Light Duty,Automobiles (Compact),Dedicated
+2005,Electricity (EVC),3,Medium Duty,Other Trucks,Dedicated
+2005,Electricity (EVC),1,Heavy Duty,Buses (Transit Buses),Dedicated
+2005,Electricity (EVC),2041,Light Duty,Other Vehicles,Dedicated
+2005,Electricity (EVC),235,Light Duty,Other Trucks (SUVs < 8500 lbs),Dedicated
+2004,Electricity (EVC),5,Medium Duty,Other Trucks,Dedicated
+2004,Electricity (EVC),5,Light Duty,Other Vehicles,Dedicated
+2004,Electricity (EVC),10,Medium Duty,Other Trucks,Dedicated
+2004,Electricity (EVC),235,Light Duty,Other Trucks (SUVs < 8500 lbs),Dedicated
+2004,Electricity (EVC),1945,Light Duty,Other Vehicles,Dedicated
+2003,Electricity (EVC),11960,Light Duty,Other Vehicles,Dedicated
+2003,Electricity (EVC),19,Light Duty,Other Vehicles,Dedicated
+2003,Electricity (EVC),49195,Light Duty,Automobiles (Compact),Nondedicated
+2003,Electricity (EVC),1162,Light Duty,Automobiles (Subcompact),Nondedicated
+2003,Electricity (EVC),74,Light Duty,Pickup Trucks (Pickups < 8500 lbs),Dedicated
+2003,Electricity (EVC),235,Light Duty,Other Trucks (SUVs < 8500 lbs),Dedicated
+2003,Electricity (EVC),12,Medium Duty,Other Trucks,Dedicated
+2003,Electricity (EVC),1,Heavy Duty,Buses (Transit Buses),Dedicated
+2003,Electricity (EVC),3,Heavy Duty,Buses (Transit Buses),Nondedicated
+2003,Electricity (EVC),172,Heavy Duty,Buses (Transit Buses),Nondedicated
+2003,Electricity (EVC),91,Light Duty,Automobiles (Midsize),Dedicated
+2003,Electricity (EVC),3,Light Duty,Automobiles (Subcompact),Dedicated
+2002,Electricity (EVC),1,Light Duty,Other Trucks (SUVs < 8500 lbs),Nondedicated
+2002,Electricity (EVC),32045,Light Duty,Automobiles (Compact),Nondedicated
+2002,Electricity (EVC),6,Heavy Duty,Buses (Transit Buses),Nondedicated
+2002,Electricity (EVC),15,Heavy Duty,Buses (Transit Buses),Nondedicated
+2002,Electricity (EVC),166,Heavy Duty,Buses (Transit Buses),Nondedicated
+2002,Electricity (EVC),2,Heavy Duty,Buses (School Buses),Dedicated
+2002,Electricity (EVC),10,Light Duty,Automobiles (Compact),Dedicated
+2002,Electricity (EVC),7,Light Duty,Automobiles (Subcompact),Dedicated
+2002,Electricity (EVC),3,Medium Duty,Other Trucks,Dedicated
+2002,Electricity (EVC),119,Light Duty,Automobiles (Midsize),Dedicated
+2002,Electricity (EVC),43,Light Duty,Automobiles (Subcompact),Dedicated
+2002,Electricity (EVC),14576,Light Duty,Other Vehicles,Dedicated
+2002,Electricity (EVC),249,Light Duty,Other Vehicles,Dedicated
+2002,Electricity (EVC),74,Light Duty,Pickup Trucks (Pickups < 8500 lbs),Dedicated
+2002,Electricity (EVC),235,Light Duty,Other Trucks (SUVs < 8500 lbs),Dedicated
+2002,Electricity (EVC),2644,Light Duty,Automobiles (Subcompact),Nondedicated
+2002,Electricity (EVC),9,Heavy Duty,Buses (Transit Buses),Nondedicated
+2001,Electricity (EVC),1,Light Duty,Other Vehicles,Dedicated
+2001,Electricity (EVC),235,Light Duty,Other Trucks (SUVs < 8500 lbs),Dedicated
+2001,Electricity (EVC),21,Medium Duty,Other Trucks,Dedicated
+2001,Electricity (EVC),9,Light Duty,Automobiles (Subcompact),Dedicated
+2001,Electricity (EVC),167,Light Duty,Other Vehicles,Dedicated
+2001,Electricity (EVC),10,Light Duty,Automobiles (Compact),Dedicated
+2001,Electricity (EVC),2,Heavy Duty,Buses (School Buses),Dedicated
+2001,Electricity (EVC),3952,Light Duty,Other Vehicles,Dedicated
+2001,Electricity (EVC),1803,Light Duty,Automobiles (Subcompact),Dedicated
+2001,Electricity (EVC),7,Heavy Duty,Buses (Transit Buses),Nondedicated
+2001,Electricity (EVC),6,Heavy Duty,Buses (Transit Buses),Nondedicated
+2001,Electricity (EVC),15,Heavy Duty,Buses (Transit Buses),Nondedicated
+2001,Electricity (EVC),166,Heavy Duty,Buses (Transit Buses),Nondedicated
+2001,Electricity (EVC),1,Heavy Duty,Buses (Transit Buses),Dedicated
+2001,Electricity (EVC),14,Medium Duty,Other Trucks,Dedicated
+2001,Electricity (EVC),1,Medium Duty,Other Trucks,Nondedicated
+2001,Electricity (EVC),187,Light Duty,Pickup Trucks (Pickups < 8500 lbs),Dedicated
+2001,Electricity (EVC),113,Light Duty,Other Trucks (Trucks < 8500 lbs),Dedicated
+2001,Electricity (EVC),1,Light Duty,Other Trucks (SUVs < 8500 lbs),Nondedicated
+2001,Electricity (EVC),4843,Light Duty,Automobiles (Subcompact),Nondedicated
+2001,Electricity (EVC),15000,Light Duty,Automobiles (Compact),Nondedicated
+2000,Electricity (EVC),240,Light Duty,Other Vehicles,Dedicated
+2000,Electricity (EVC),4705,Light Duty,Other Vehicles,Dedicated
+2000,Electricity (EVC),296,Light Duty,Automobiles (Compact),Dedicated
+2000,Electricity (EVC),8,Heavy Duty,Buses (Transit Buses),Dedicated
+2000,Electricity (EVC),1,Heavy Duty,Buses (School Buses),Dedicated
+2000,Electricity (EVC),184,Light Duty,Other Trucks (Trucks < 8500 lbs),Dedicated
+2000,Electricity (EVC),11949,Light Duty,Automobiles (Compact),Nondedicated
+2000,Electricity (EVC),6,Heavy Duty,Buses (Transit Buses),Nondedicated
+2000,Electricity (EVC),1,Heavy Duty,Buses (Transit Buses),Nondedicated
+2000,Electricity (EVC),756,Light Duty,Pickup Trucks (Pickups < 8500 lbs),Dedicated
+2000,Electricity (EVC),2,Light Duty,Automobiles (Midsize),Nondedicated
+2000,Electricity (EVC),2,Light Duty,Pickup Trucks (Pickups < 8500 lbs),Dedicated
+2000,Electricity (EVC),18,Light Duty,Automobiles (Compact),Dedicated
+2000,Electricity (EVC),1,Heavy Duty,Buses (School Buses),Dedicated
+2000,Electricity (EVC),3,Medium Duty,Other Trucks,Dedicated
+1999,Electricity (EVC),3,Medium Duty,Other Trucks,Dedicated
+1999,Electricity (EVC),8,Light Duty,Automobiles (Compact),Dedicated
+1999,Electricity (EVC),5,Light Duty,Pickup Trucks (Pickups < 8500 lbs),Dedicated
+1999,Electricity (EVC),20,Heavy Duty,Buses (Transit Buses),Dedicated
+1999,Electricity (EVC),24,Heavy Duty,Buses (Transit Buses),Nondedicated
+1999,Electricity (EVC),12,Heavy Duty,Buses (Transit Buses),Nondedicated
+1999,Electricity (EVC),41,Light Duty,Automobiles (Compact),Nondedicated
+1999,Electricity (EVC),291,Light Duty,Automobiles (Compact),Dedicated
+1999,Electricity (EVC),209,Light Duty,Vans (Small Passenger Vans),Dedicated
+1999,Electricity (EVC),171,Light Duty,Other Vehicles,Dedicated
+1999,Electricity (EVC),970,Light Duty,Pickup Trucks (Pickups < 8500 lbs),Dedicated
+1999,Electricity (EVC),255,Light Duty,Other Trucks (Trucks < 8500 lbs),Dedicated
+1999,Electricity (EVC),1,Heavy Duty,Buses (Transit Buses),Nondedicated
+1998,Electricity (EVC),1,Light Duty,Pickup Trucks (Pickups < 8500 lbs),Dedicated
+1998,Electricity (EVC),1,Light Duty,Vans (Passenger/Cargo Vans < 8500 lbs),Dedicated
+1998,Electricity (EVC),1,Heavy Duty,Buses (Transit Buses),Dedicated
+1998,Electricity (EVC),445,Light Duty,Automobiles (Compact),Dedicated
+1998,Electricity (EVC),20,Light Duty,Vans (Small Passenger Vans),Dedicated
+1998,Electricity (EVC),145,Light Duty,Other Vehicles,Dedicated
+1998,Electricity (EVC),10,Medium Duty,Other Trucks,Dedicated
+1998,Electricity (EVC),357,Light Duty,Other Trucks (Trucks < 8500 lbs),Dedicated
+1998,Electricity (EVC),2,Light Duty,Vans (Passenger/Cargo Vans < 8500 lbs),Dedicated
+1998,Electricity (EVC),9,Light Duty,Automobiles (Compact),Dedicated
+1998,Electricity (EVC),30,Heavy Duty,Buses (Transit Buses),Nondedicated
+1998,Electricity (EVC),5,Heavy Duty,Buses (Transit Buses),Nondedicated
+1998,Electricity (EVC),1,Heavy Duty,Buses (Transit Buses),Nondedicated
+1998,Electricity (EVC),813,Light Duty,Pickup Trucks (Pickups < 8500 lbs),Dedicated
+1997,Electricity (EVC),16,Heavy Duty,Buses (Transit Buses),Dedicated
+1997,Electricity (EVC),1,Medium Duty,Other Trucks,Dedicated
+1997,Electricity (EVC),1,Light Duty,Automobiles (Midsize),Dedicated
+1997,Electricity (EVC),18,Light Duty,Vans (Small Passenger Vans),Dedicated
+1997,Electricity (EVC),1,Light Duty,Other Vehicles,Dedicated
+1997,Electricity (EVC),32,Light Duty,Other Vehicles,Dedicated
+1997,Electricity (EVC),456,Light Duty,Pickup Trucks (Pickups < 8500 lbs),Dedicated
+1997,Electricity (EVC),1,Light Duty,Vans (Passenger/Cargo Vans < 8500 lbs),Dedicated
+1997,Electricity (EVC),1,Heavy Duty,Buses (Transit Buses),Nondedicated
+1997,Electricity (EVC),7,Light Duty,Automobiles (Compact),Dedicated
+1997,Electricity (EVC),1,Light Duty,Automobiles (Midsize),Dedicated
+1997,Electricity (EVC),1,Light Duty,Vans (Small Passenger Vans),Dedicated
+1997,Electricity (EVC),1,Light Duty,Other Vehicles,Dedicated
+1997,Electricity (EVC),14,Light Duty,Pickup Trucks (Pickups < 8500 lbs),Dedicated
+1997,Electricity (EVC),1,Heavy Duty,Buses (Intercity Buses),Dedicated
+1997,Electricity (EVC),3,Heavy Duty,Buses (School Buses),Dedicated
+1997,Electricity (EVC),1,Heavy Duty,Buses (School Buses),Nondedicated
+1997,Electricity (EVC),1,Heavy Duty,Buses (Transit Buses),Nondedicated
+1997,Electricity (EVC),500,Light Duty,Automobiles (Compact),Dedicated
+1996,Electricity (EVC),78,Light Duty,Automobiles (Compact),Dedicated
+1996,Electricity (EVC),2,Heavy Duty,Buses (Intercity Buses),Dedicated
+1996,Electricity (EVC),1,Light Duty,Vans (Small Passenger Vans),Dedicated
+1996,Electricity (EVC),28,Light Duty,Pickup Trucks (Pickups < 8500 lbs),Dedicated
+1996,Electricity (EVC),1,Light Duty,Other Trucks (Trucks < 8500 lbs),Dedicated
+1996,Electricity (EVC),2,Light Duty,Vans (Passenger/Cargo Vans < 8500 lbs),Dedicated
+1996,Electricity (EVC),1,Medium Duty,Other Trucks,Dedicated
+1996,Electricity (EVC),11,Heavy Duty,Buses (School Buses),Dedicated
+1996,Electricity (EVC),118,Heavy Duty,Buses (Transit Buses),Dedicated
+1996,Electricity (EVC),37,Heavy Duty,Other Trucks,Dedicated
+1996,Electricity (EVC),275,Light Duty,Automobiles (Compact),Dedicated
+1996,Electricity (EVC),22,Light Duty,Other Vehicles,Dedicated
+1996,Electricity (EVC),40,Light Duty,Pickup Trucks (Pickups < 8500 lbs),Dedicated
+1996,Electricity (EVC),23,Light Duty,Other Trucks (Trucks < 8500 lbs),Dedicated
+1996,Electricity (EVC),1,Heavy Duty,Buses (Transit Buses),Dedicated
+1996,Electricity (EVC),1,Light Duty,Automobiles (Compact),Nondedicated
+1996,Electricity (EVC),1,Medium Duty,Vans (Passenger/Cargo Vans 8501-10000 lbs),Nondedicated
+1996,Electricity (EVC),2,Heavy Duty,Buses (Transit Buses),Nondedicated
+1996,Electricity (EVC),3,Heavy Duty,Buses (Transit Buses),Nondedicated
+1996,Electricity (EVC),19,Light Duty,Automobiles (Midsize),Dedicated
+1995,Electricity (EVC),27,Light Duty,Automobiles (Compact),Dedicated
+1995,Electricity (EVC),1,Light Duty,Automobiles (Midsize),Dedicated
+1995,Electricity (EVC),11,Light Duty,Pickup Trucks (Pickups < 8500 lbs),Dedicated
+1995,Electricity (EVC),1,Light Duty,Other Trucks (Trucks < 8500 lbs),Dedicated
+1995,Electricity (EVC),6,Light Duty,Vans (Passenger/Cargo Vans < 8500 lbs),Dedicated
+1995,Electricity (EVC),244,Heavy Duty,Buses (Transit Buses),Dedicated
+1995,Electricity (EVC),39,Light Duty,Automobiles (Compact),Dedicated
+1995,Electricity (EVC),4,Light Duty,Automobiles (Midsize),Dedicated
+1995,Electricity (EVC),1,Light Duty,Vans (Small Passenger Vans),Dedicated
+1995,Electricity (EVC),2,Light Duty,Other Vehicles,Dedicated
+1995,Electricity (EVC),148,Light Duty,Other Vehicles,Dedicated
+1995,Electricity (EVC),1,Light Duty,Other Vehicles,Nondedicated
+1995,Electricity (EVC),5,Light Duty,Vans (Passenger/Cargo Vans < 8500 lbs),Nondedicated
+1995,Electricity (EVC),1,Light Duty,Automobiles (Midsize),Nondedicated
+1995,Electricity (EVC),1,Light Duty,Automobiles (Compact),Nondedicated
+1995,Electricity (EVC),32,Light Duty,Pickup Trucks (Pickups < 8500 lbs),Dedicated
+1995,Electricity (EVC),1,Light Duty,Other Trucks (Trucks < 8500 lbs),Dedicated
+1995,Electricity (EVC),14,Light Duty,Vans (Passenger/Cargo Vans < 8500 lbs),Dedicated
+1995,Electricity (EVC),1,Heavy Duty,Buses (School Buses),Dedicated
+1994,Electricity (EVC),22,Light Duty,Automobiles (Compact),Dedicated
+1994,Electricity (EVC),43,Light Duty,Vans (Passenger/Cargo Vans < 8500 lbs),Dedicated
+1994,Electricity (EVC),2,Light Duty,Vans (Small Passenger Vans),Dedicated
+1994,Electricity (EVC),222,Light Duty,Pickup Trucks (Pickups < 8500 lbs),Dedicated
+1994,Electricity (EVC),4,Light Duty,Other Trucks (Trucks < 8500 lbs),Dedicated
+1994,Electricity (EVC),2,Light Duty,Automobiles (Compact),Nondedicated
+1994,Electricity (EVC),1,Light Duty,Pickup Trucks (Pickups < 8500 lbs),Nondedicated
+1994,Electricity (EVC),1,Light Duty,Automobiles (Compact),Nondedicated
+1994,Electricity (EVC),3,Heavy Duty,Buses (Intercity Buses),Dedicated
+1994,Electricity (EVC),1,Heavy Duty,Buses (Transit Buses),Nondedicated
+1994,Electricity (EVC),1,Light Duty,Other Vehicles,Dedicated
+1994,Electricity (EVC),60,Heavy Duty,Buses (Transit Buses),Dedicated
+1994,Electricity (EVC),113,Light Duty,Automobiles (Compact),Dedicated
+1994,Electricity (EVC),5,Light Duty,Vans (Small Passenger Vans),Dedicated
+1994,Electricity (EVC),17,Light Duty,Pickup Trucks (Pickups < 8500 lbs),Dedicated
+1994,Electricity (EVC),113,Light Duty,Automobiles (Midsize),Dedicated

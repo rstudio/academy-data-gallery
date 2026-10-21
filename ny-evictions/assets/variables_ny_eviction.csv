@@ -1,0 +1,6 @@
+variable,description
+id,"The site identifier, either Census tract FIPS number or Zip Code."
+month,The month of the data being presented in the row.
+racial_majority,"Majority racial/ethnic group for a given tract/zip, based on American Community Survey (ACS) 2015-2019 estimates. Black = Black, non-Hispanic. White = white, non-Hispanic. Hispanic = Hispanic. Other/None = Another racial/ethnic group is the majority, or there is no group with >50% of the population in the tract/zip."
+filings_2020,The residential eviction filings in that `id` for that month of 2020-2022.
+filings_avg,The average filings for a given `id` over the baseline years for that month. See the [Get the Data](https://evictionlab.org/eviction-tracking/get-the-data/) page on the [ETS website](https://evictionlab.org/eviction-tracking/) for the baseline years used for a given site. Baseline data undergoes a similar cleaning process to the 2020+ data.

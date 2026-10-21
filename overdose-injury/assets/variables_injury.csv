@@ -1,0 +1,9 @@
+variable,description
+year,Year
+state,State or region (full name). Includes the District of Columbia.
+mechanism,Mechanism of injury
+deaths,Number of deaths
+population,Population
+medical_costs_total,Estimate of total medical costs (USD)
+medical_costs_average,Estimate of average medical costs (USD)
+medical_costs_per_capita,Estimate of medical costs per capita (USD)

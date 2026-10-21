@@ -1,0 +1,1001 @@
+applicant_id,credit_amount,age,personal_status,job,employment,savings_status,housing,residence_since,property_magnitude,num_dependents,own_telephone,foreign_worker
+1,1169,67,male single,skilled,>=7,no known savings,own,4,real estate,1,yes,yes
+2,5951,22,female div/sep/mar/wid,skilled,1<=X<4,<100,own,2,real estate,1,none,yes
+3,2096,49,male single,unskilled resident,4<=X<7,<100,own,3,real estate,2,none,yes
+4,7882,45,male single,skilled,4<=X<7,<100,for free,4,life insurance,2,none,yes
+5,4870,53,male single,skilled,1<=X<4,<100,for free,4,no known property,2,none,yes
+6,9055,35,male single,unskilled resident,1<=X<4,no known savings,for free,4,no known property,2,yes,yes
+7,2835,53,male single,skilled,>=7,500<=X<1000,own,4,life insurance,1,none,yes
+8,6948,35,male single,high qualif/self emp/mgmt,1<=X<4,<100,rent,2,car,1,yes,yes
+9,3059,61,male div/sep/mar/wid,unskilled resident,4<=X<7,>=1000,own,4,real estate,1,none,yes
+10,5234,28,male div/sep/mar/wid,high qualif/self emp/mgmt,unemployed,<100,own,2,car,1,none,yes
+11,1295,25,female div/sep/mar/wid,skilled,<1,<100,rent,1,car,1,none,yes
+12,4308,24,female div/sep/mar/wid,skilled,<1,<100,rent,4,life insurance,1,none,yes
+13,1567,22,female div/sep/mar/wid,skilled,1<=X<4,<100,own,1,car,1,yes,yes
+14,1199,60,male single,unskilled resident,>=7,<100,own,4,car,1,none,yes
+15,1403,28,female div/sep/mar/wid,skilled,1<=X<4,<100,rent,4,car,1,none,yes
+16,1282,32,female div/sep/mar/wid,unskilled resident,1<=X<4,100<=X<500,own,2,car,1,none,yes
+17,2424,53,male single,skilled,>=7,no known savings,own,4,life insurance,1,none,yes
+18,8072,25,male single,skilled,<1,no known savings,own,3,car,1,none,yes
+19,12579,44,female div/sep/mar/wid,high qualif/self emp/mgmt,>=7,<100,for free,2,no known property,1,yes,yes
+20,3430,31,male single,skilled,>=7,500<=X<1000,own,2,car,2,yes,yes
+21,2134,48,male single,skilled,1<=X<4,<100,own,4,car,1,yes,yes
+22,2647,44,male single,skilled,1<=X<4,500<=X<1000,rent,3,real estate,2,none,yes
+23,2241,48,male single,unskilled resident,<1,<100,rent,3,real estate,2,none,no
+24,1804,44,male single,skilled,<1,100<=X<500,own,4,life insurance,1,none,yes
+25,2069,26,male div/sep/mar/wid,skilled,1<=X<4,no known savings,own,1,car,1,none,no
+26,1374,36,male single,unskilled resident,1<=X<4,<100,own,2,real estate,1,yes,yes
+27,426,39,male div/sep/mar/wid,unskilled resident,>=7,<100,own,4,car,1,none,yes
+28,409,42,female div/sep/mar/wid,skilled,1<=X<4,>=1000,rent,3,real estate,1,none,yes
+29,2415,34,male single,skilled,1<=X<4,<100,own,2,real estate,1,none,yes
+30,6836,63,male single,skilled,>=7,<100,own,4,no known property,1,yes,yes
+31,1913,36,male div/sep/mar/wid,skilled,<1,>=1000,own,3,real estate,1,yes,yes
+32,4020,27,male single,skilled,1<=X<4,<100,own,2,car,1,none,yes
+33,5866,30,male single,skilled,1<=X<4,100<=X<500,own,2,car,1,yes,yes
+34,1264,57,male single,unskilled resident,>=7,no known savings,rent,4,no known property,1,none,yes
+35,1474,33,female div/sep/mar/wid,high qualif/self emp/mgmt,<1,<100,own,1,life insurance,1,yes,yes
+36,4746,25,male single,unskilled resident,<1,<100,own,2,life insurance,1,none,yes
+37,6110,31,male single,skilled,1<=X<4,<100,for free,3,no known property,1,yes,yes
+38,2100,37,male single,skilled,1<=X<4,<100,own,2,real estate,1,none,yes
+39,1225,37,male single,skilled,1<=X<4,<100,own,2,car,1,yes,yes
+40,458,24,male single,skilled,1<=X<4,<100,own,3,real estate,1,none,yes
+41,2333,30,male single,high qualif/self emp/mgmt,>=7,500<=X<1000,own,2,car,1,none,yes
+42,1158,26,male div/sep/mar/wid,skilled,1<=X<4,500<=X<1000,own,1,car,1,yes,yes
+43,6204,44,male single,unskilled resident,1<=X<4,<100,own,4,real estate,2,yes,yes
+44,6187,24,male div/sep/mar/wid,skilled,4<=X<7,100<=X<500,rent,4,car,1,none,yes
+45,6143,58,female div/sep/mar/wid,unskilled resident,>=7,<100,for free,4,no known property,1,none,yes
+46,1393,35,female div/sep/mar/wid,high qualif/self emp/mgmt,<1,<100,own,4,car,1,none,yes
+47,2299,39,male single,skilled,>=7,500<=X<1000,own,4,car,1,none,yes
+48,1352,23,female div/sep/mar/wid,unemp/unskilled non res,unemployed,500<=X<1000,rent,2,life insurance,1,yes,yes
+49,7228,39,male single,unskilled resident,1<=X<4,<100,own,4,life insurance,1,none,yes
+50,2073,28,female div/sep/mar/wid,skilled,1<=X<4,100<=X<500,own,2,real estate,1,none,yes
+51,2333,29,male single,unskilled resident,<1,no known savings,own,2,life insurance,1,none,yes
+52,5965,30,male single,high qualif/self emp/mgmt,>=7,<100,own,2,car,1,yes,yes
+53,1262,25,male single,skilled,1<=X<4,<100,own,2,car,1,none,yes
+54,3378,31,male single,skilled,1<=X<4,no known savings,own,1,life insurance,1,yes,yes
+55,2225,57,male single,skilled,>=7,<100,for free,4,no known property,1,yes,yes
+56,783,26,male single,unskilled resident,1<=X<4,no known savings,own,2,real estate,2,none,yes
+57,6468,52,male single,high qualif/self emp/mgmt,unemployed,no known savings,own,1,no known property,1,yes,yes
+58,9566,31,female div/sep/mar/wid,skilled,1<=X<4,<100,own,2,car,1,none,yes
+59,1961,23,female div/sep/mar/wid,high qualif/self emp/mgmt,>=7,<100,own,2,car,1,none,yes
+60,6229,23,female div/sep/mar/wid,unskilled resident,<1,<100,rent,4,no known property,1,yes,yes
+61,1391,27,male div/sep/mar/wid,skilled,1<=X<4,<100,own,1,real estate,1,yes,yes
+62,1537,50,male single,skilled,>=7,no known savings,own,4,real estate,1,yes,yes
+63,1953,61,male single,high qualif/self emp/mgmt,>=7,<100,for free,4,no known property,1,yes,yes
+64,14421,25,male single,skilled,1<=X<4,<100,own,2,car,1,yes,yes
+65,3181,26,female div/sep/mar/wid,skilled,<1,<100,own,4,life insurance,1,yes,yes
+66,5190,48,male single,skilled,>=7,no known savings,own,4,life insurance,2,yes,yes
+67,2171,29,female div/sep/mar/wid,skilled,<1,<100,own,2,car,1,none,yes
+68,1007,22,male div/sep/mar/wid,skilled,1<=X<4,>=1000,own,1,real estate,1,none,yes
+69,1819,37,male single,skilled,1<=X<4,<100,for free,4,no known property,1,yes,yes
+70,2394,25,female div/sep/mar/wid,skilled,1<=X<4,no known savings,own,4,car,1,none,yes
+71,8133,30,female div/sep/mar/wid,skilled,1<=X<4,<100,own,2,life insurance,1,none,yes
+72,730,46,male single,unskilled resident,>=7,no known savings,rent,2,life insurance,1,yes,yes
+73,1164,51,male single,high qualif/self emp/mgmt,>=7,<100,for free,4,no known property,2,yes,yes
+74,5954,41,female div/sep/mar/wid,unskilled resident,4<=X<7,<100,own,1,real estate,1,none,yes
+75,1977,40,male single,high qualif/self emp/mgmt,>=7,no known savings,own,4,no known property,1,yes,yes
+76,1526,66,male single,high qualif/self emp/mgmt,>=7,<100,for free,4,no known property,1,none,yes
+77,3965,34,male single,skilled,<1,<100,own,3,car,1,none,yes
+78,4771,51,male single,skilled,4<=X<7,<100,own,4,life insurance,1,none,yes
+79,9436,39,male single,unskilled resident,1<=X<4,no known savings,own,2,life insurance,2,none,yes
+80,3832,22,male div/sep/mar/wid,skilled,<1,<100,own,1,life insurance,1,none,yes
+81,5943,44,female div/sep/mar/wid,skilled,<1,no known savings,own,1,car,1,yes,yes
+82,1213,47,male single,skilled,>=7,500<=X<1000,own,3,life insurance,1,yes,yes
+83,1568,24,female div/sep/mar/wid,unskilled resident,1<=X<4,100<=X<500,rent,4,life insurance,1,none,yes
+84,1755,58,female div/sep/mar/wid,unskilled resident,>=7,<100,own,4,real estate,1,yes,yes
+85,2315,52,male single,unskilled resident,>=7,<100,own,4,real estate,1,none,yes
+86,1412,29,female div/sep/mar/wid,high qualif/self emp/mgmt,1<=X<4,<100,own,2,real estate,1,yes,yes
+87,1295,27,female div/sep/mar/wid,skilled,<1,<100,own,1,life insurance,1,none,yes
+88,12612,47,male single,skilled,1<=X<4,100<=X<500,for free,4,no known property,2,yes,yes
+89,2249,30,male single,high qualif/self emp/mgmt,4<=X<7,100<=X<500,own,3,car,2,yes,yes
+90,1108,28,male single,skilled,4<=X<7,<100,own,3,real estate,1,none,yes
+91,618,56,male single,skilled,>=7,<100,own,4,real estate,1,none,yes
+92,1409,54,male single,skilled,>=7,<100,own,3,real estate,1,none,yes
+93,797,33,female div/sep/mar/wid,unskilled resident,>=7,no known savings,own,3,life insurance,2,none,yes
+94,3617,20,male single,skilled,>=7,no known savings,rent,4,no known property,1,none,yes
+95,1318,54,male single,skilled,>=7,>=1000,own,4,real estate,1,yes,yes
+96,15945,58,male single,skilled,<1,<100,rent,4,no known property,1,yes,yes
+97,2012,61,female div/sep/mar/wid,skilled,4<=X<7,no known savings,own,2,car,1,none,yes
+98,2622,34,male single,skilled,1<=X<4,100<=X<500,own,4,car,1,none,yes
+99,2337,36,male single,skilled,>=7,<100,own,4,real estate,1,none,yes
+100,7057,36,male single,high qualif/self emp/mgmt,4<=X<7,no known savings,rent,4,life insurance,2,yes,yes
+101,1469,41,male div/sep/mar/wid,unskilled resident,>=7,100<=X<500,rent,4,real estate,1,none,yes
+102,2323,24,male single,skilled,4<=X<7,<100,rent,4,car,1,none,yes
+103,932,24,female div/sep/mar/wid,skilled,1<=X<4,<100,own,2,real estate,1,none,yes
+104,1919,35,male single,skilled,4<=X<7,<100,rent,3,car,1,yes,yes
+105,2445,26,male div/sep/mar/wid,skilled,<1,no known savings,rent,4,car,1,yes,yes
+106,11938,39,male single,high qualif/self emp/mgmt,1<=X<4,<100,own,3,car,2,yes,yes
+107,6458,39,male single,high qualif/self emp/mgmt,>=7,<100,own,4,no known property,2,yes,yes
+108,6078,32,male single,skilled,4<=X<7,<100,own,2,car,1,none,yes
+109,7721,30,female div/sep/mar/wid,skilled,<1,no known savings,own,2,life insurance,1,yes,no
+110,1410,35,male div/sep/mar/wid,skilled,>=7,500<=X<1000,own,2,real estate,1,yes,yes
+111,1449,31,male div/sep/mar/wid,skilled,>=7,100<=X<500,own,2,car,2,none,yes
+112,392,23,female div/sep/mar/wid,skilled,<1,<100,rent,4,life insurance,1,yes,yes
+113,6260,28,male single,unskilled resident,4<=X<7,<100,rent,3,real estate,1,none,yes
+114,7855,25,female div/sep/mar/wid,skilled,1<=X<4,<100,own,2,real estate,1,yes,yes
+115,1680,35,male div/sep/mar/wid,skilled,>=7,500<=X<1000,own,1,real estate,1,none,yes
+116,3578,47,male single,skilled,>=7,no known savings,own,1,real estate,1,yes,yes
+117,7174,30,female div/sep/mar/wid,high qualif/self emp/mgmt,4<=X<7,no known savings,own,3,car,1,yes,yes
+118,2132,27,female div/sep/mar/wid,skilled,<1,no known savings,rent,3,real estate,1,none,no
+119,4281,23,female div/sep/mar/wid,skilled,1<=X<4,500<=X<1000,own,4,car,1,none,yes
+120,2366,36,male div/sep/mar/wid,high qualif/self emp/mgmt,4<=X<7,500<=X<1000,own,3,car,1,yes,yes
+121,1835,25,female div/sep/mar/wid,skilled,1<=X<4,<100,own,2,real estate,1,yes,yes
+122,3868,41,female div/sep/mar/wid,high qualif/self emp/mgmt,>=7,<100,rent,2,car,1,yes,yes
+123,1768,24,male single,unskilled resident,1<=X<4,<100,rent,2,real estate,1,none,yes
+124,781,63,male single,skilled,>=7,<100,for free,4,no known property,1,yes,yes
+125,1924,27,female div/sep/mar/wid,skilled,<1,no known savings,rent,3,real estate,1,none,yes
+126,2121,30,male single,skilled,1<=X<4,<100,own,2,life insurance,1,none,yes
+127,701,40,male div/sep/mar/wid,unskilled resident,1<=X<4,<100,own,2,real estate,1,none,yes
+128,639,30,male single,skilled,1<=X<4,<100,own,2,car,1,none,yes
+129,1860,34,male single,high qualif/self emp/mgmt,unemployed,<100,own,2,car,1,yes,yes
+130,3499,29,female div/sep/mar/wid,skilled,1<=X<4,<100,own,2,real estate,1,none,yes
+131,8487,24,female div/sep/mar/wid,skilled,4<=X<7,no known savings,own,2,car,1,none,yes
+132,6887,29,male single,skilled,1<=X<4,<100,own,3,life insurance,1,yes,yes
+133,2708,27,male single,unskilled resident,<1,<100,own,3,life insurance,1,none,yes
+134,1984,47,male single,skilled,1<=X<4,<100,for free,4,no known property,1,none,yes
+135,10144,21,female div/sep/mar/wid,skilled,4<=X<7,100<=X<500,own,4,real estate,1,yes,yes
+136,1240,38,female div/sep/mar/wid,skilled,>=7,no known savings,own,2,real estate,1,yes,yes
+137,8613,27,male single,skilled,1<=X<4,>=1000,own,2,car,1,none,yes
+138,766,66,male single,unskilled resident,1<=X<4,500<=X<1000,own,3,real estate,1,none,yes
+139,2728,35,male single,skilled,4<=X<7,no known savings,own,2,real estate,1,yes,yes
+140,1881,44,female div/sep/mar/wid,unskilled resident,1<=X<4,<100,rent,2,car,1,yes,yes
+141,709,27,male div/sep/mar/wid,unemp/unskilled non res,<1,>=1000,own,2,real estate,1,none,no
+142,4795,30,female div/sep/mar/wid,high qualif/self emp/mgmt,<1,<100,own,1,no known property,1,yes,yes
+143,3416,27,male single,high qualif/self emp/mgmt,1<=X<4,<100,own,2,car,1,none,yes
+144,2462,22,male single,skilled,1<=X<4,<100,own,2,car,1,none,yes
+145,2288,23,female div/sep/mar/wid,skilled,<1,<100,own,4,life insurance,1,yes,yes
+146,3566,30,male single,skilled,4<=X<7,100<=X<500,own,2,car,1,none,yes
+147,860,39,female div/sep/mar/wid,skilled,>=7,<100,own,4,no known property,1,yes,yes
+148,682,51,female div/sep/mar/wid,skilled,4<=X<7,100<=X<500,own,3,car,1,yes,yes
+149,5371,28,male single,skilled,1<=X<4,<100,own,2,life insurance,1,none,yes
+150,1582,46,male single,skilled,>=7,>=1000,own,4,car,1,none,yes
+151,1346,42,male single,skilled,>=7,100<=X<500,for free,4,no known property,2,yes,yes
+152,1924,38,male single,skilled,1<=X<4,<100,own,4,life insurance,1,yes,no
+153,5848,24,male single,skilled,1<=X<4,<100,own,1,car,1,none,yes
+154,7758,29,female div/sep/mar/wid,skilled,>=7,>=1000,rent,4,no known property,1,none,yes
+155,6967,36,male single,high qualif/self emp/mgmt,4<=X<7,100<=X<500,rent,4,car,1,yes,yes
+156,1282,20,female div/sep/mar/wid,skilled,1<=X<4,<100,rent,4,car,1,none,yes
+157,1288,48,male single,skilled,>=7,100<=X<500,own,4,real estate,2,none,no
+158,339,45,male div/sep/mar/wid,unskilled resident,>=7,<100,own,1,car,1,none,yes
+159,3512,38,male single,skilled,4<=X<7,100<=X<500,own,3,car,1,yes,yes
+160,1898,34,male single,unskilled resident,1<=X<4,no known savings,own,2,real estate,2,none,yes
+161,2872,36,male single,skilled,>=7,100<=X<500,own,4,real estate,2,yes,yes
+162,1055,30,female div/sep/mar/wid,skilled,<1,<100,own,1,life insurance,1,none,yes
+163,1262,36,male single,skilled,4<=X<7,500<=X<1000,own,3,life insurance,1,yes,yes
+164,7308,70,male single,high qualif/self emp/mgmt,unemployed,<100,for free,4,no known property,1,yes,yes
+165,909,36,male single,skilled,>=7,500<=X<1000,own,4,life insurance,1,none,yes
+166,2978,32,male single,skilled,1<=X<4,500<=X<1000,own,2,car,1,yes,yes
+167,1131,33,female div/sep/mar/wid,skilled,unemployed,<100,own,2,car,1,none,yes
+168,1577,20,female div/sep/mar/wid,skilled,<1,>=1000,own,1,real estate,1,none,yes
+169,3972,25,female div/sep/mar/wid,skilled,4<=X<7,<100,rent,4,life insurance,1,yes,yes
+170,1935,31,male div/sep/mar/wid,skilled,>=7,<100,own,4,real estate,1,yes,yes
+171,950,33,male single,skilled,>=7,<100,rent,3,car,2,none,yes
+172,763,26,female div/sep/mar/wid,skilled,1<=X<4,<100,own,1,real estate,1,yes,yes
+173,2064,34,female div/sep/mar/wid,high qualif/self emp/mgmt,unemployed,<100,own,2,life insurance,1,yes,yes
+174,1414,33,male single,skilled,1<=X<4,<100,own,2,real estate,1,none,no
+175,3414,26,male single,skilled,<1,<100,own,1,life insurance,1,none,yes
+176,7485,53,female div/sep/mar/wid,high qualif/self emp/mgmt,unemployed,no known savings,own,1,real estate,1,yes,yes
+177,2577,42,male div/sep/mar/wid,skilled,1<=X<4,<100,own,1,car,1,none,yes
+178,338,52,male single,skilled,>=7,500<=X<1000,own,4,car,1,none,yes
+179,1963,31,male single,high qualif/self emp/mgmt,4<=X<7,<100,rent,2,car,2,yes,yes
+180,571,65,male single,skilled,>=7,<100,own,4,real estate,1,none,yes
+181,9572,28,male div/sep/mar/wid,skilled,<1,<100,own,1,car,1,none,yes
+182,4455,30,male div/sep/mar/wid,high qualif/self emp/mgmt,1<=X<4,<100,own,2,real estate,1,yes,yes
+183,1647,40,male single,unskilled resident,1<=X<4,no known savings,own,2,life insurance,2,none,yes
+184,3777,50,male single,skilled,1<=X<4,>=1000,own,4,real estate,1,yes,yes
+185,884,36,male single,skilled,>=7,<100,own,4,car,2,yes,yes
+186,1360,31,male single,skilled,1<=X<4,<100,own,2,life insurance,1,none,yes
+187,5129,74,female div/sep/mar/wid,high qualif/self emp/mgmt,>=7,<100,for free,4,no known property,2,yes,yes
+188,1175,68,male single,unemp/unskilled non res,unemployed,<100,for free,3,car,1,yes,yes
+189,674,20,male div/sep/mar/wid,skilled,4<=X<7,100<=X<500,own,1,life insurance,1,none,yes
+190,3244,33,female div/sep/mar/wid,skilled,1<=X<4,<100,own,4,car,1,yes,yes
+191,4591,54,male single,high qualif/self emp/mgmt,1<=X<4,>=1000,own,3,life insurance,1,yes,yes
+192,3844,34,male single,unskilled resident,4<=X<7,100<=X<500,for free,4,no known property,2,none,yes
+193,3915,36,male single,skilled,1<=X<4,<100,own,2,car,2,yes,yes
+194,2108,29,male div/sep/mar/wid,skilled,4<=X<7,<100,rent,2,real estate,1,none,yes
+195,3031,21,male single,skilled,1<=X<4,100<=X<500,rent,4,life insurance,1,none,yes
+196,1501,34,female div/sep/mar/wid,high qualif/self emp/mgmt,>=7,<100,own,3,car,1,yes,yes
+197,1382,28,female div/sep/mar/wid,skilled,1<=X<4,<100,own,1,car,1,yes,yes
+198,951,27,female div/sep/mar/wid,skilled,<1,100<=X<500,rent,4,car,1,none,yes
+199,2760,36,male single,skilled,>=7,no known savings,for free,4,no known property,1,yes,yes
+200,4297,40,male div/sep/mar/wid,high qualif/self emp/mgmt,>=7,<100,own,3,no known property,1,yes,yes
+201,936,52,male single,skilled,>=7,500<=X<1000,own,2,car,1,yes,yes
+202,1168,27,male div/sep/mar/wid,unskilled resident,1<=X<4,<100,own,3,real estate,1,none,yes
+203,5117,26,male single,skilled,4<=X<7,<100,own,4,car,1,none,yes
+204,902,21,male div/sep/mar/wid,skilled,4<=X<7,<100,rent,4,life insurance,1,none,yes
+205,1495,38,male single,unskilled resident,>=7,<100,own,1,real estate,2,none,yes
+206,10623,38,male single,high qualif/self emp/mgmt,>=7,<100,for free,4,no known property,2,yes,yes
+207,1935,43,male single,skilled,>=7,<100,own,4,real estate,1,yes,yes
+208,1424,26,male single,skilled,4<=X<7,<100,own,3,life insurance,1,none,yes
+209,6568,21,male div/sep/mar/wid,unskilled resident,1<=X<4,<100,own,2,car,1,none,yes
+210,1413,55,male single,skilled,4<=X<7,>=1000,own,2,life insurance,1,none,no
+211,3074,33,male single,skilled,1<=X<4,no known savings,own,2,real estate,2,none,yes
+212,3835,45,female div/sep/mar/wid,unskilled resident,>=7,no known savings,own,4,real estate,1,yes,yes
+213,5293,50,male single,skilled,unemployed,<100,own,4,life insurance,1,yes,yes
+214,1908,66,male single,high qualif/self emp/mgmt,>=7,<100,own,4,real estate,1,yes,yes
+215,3342,51,male single,skilled,>=7,no known savings,own,2,car,1,yes,yes
+216,932,39,female div/sep/mar/wid,unskilled resident,4<=X<7,no known savings,own,3,life insurance,1,none,yes
+217,3104,31,male single,skilled,4<=X<7,<100,own,1,life insurance,1,yes,yes
+218,3913,23,male single,skilled,1<=X<4,<100,own,2,real estate,1,yes,yes
+219,3021,24,male div/sep/mar/wid,unskilled resident,1<=X<4,<100,rent,2,real estate,1,none,yes
+220,1364,64,female div/sep/mar/wid,skilled,1<=X<4,<100,own,4,car,1,yes,yes
+221,625,26,male div/sep/mar/wid,unskilled resident,<1,<100,own,1,real estate,1,none,yes
+222,1200,23,female div/sep/mar/wid,skilled,1<=X<4,no known savings,rent,4,life insurance,1,yes,yes
+223,707,30,male single,skilled,1<=X<4,<100,own,2,real estate,1,none,yes
+224,2978,32,male single,skilled,1<=X<4,no known savings,own,4,real estate,2,yes,yes
+225,4657,30,male single,skilled,1<=X<4,<100,own,2,car,1,yes,yes
+226,2613,27,male single,skilled,1<=X<4,<100,own,2,car,1,none,yes
+227,10961,27,male single,skilled,4<=X<7,>=1000,own,2,no known property,1,yes,yes
+228,7865,53,male single,high qualif/self emp/mgmt,>=7,<100,for free,4,no known property,1,yes,yes
+229,1478,22,male single,skilled,4<=X<7,<100,own,2,car,1,none,yes
+230,3149,22,male single,skilled,<1,<100,for free,1,no known property,1,none,yes
+231,4210,26,male single,skilled,1<=X<4,<100,own,2,car,1,none,yes
+232,2507,51,male single,unskilled resident,>=7,500<=X<1000,for free,4,no known property,1,none,yes
+233,2141,35,male single,skilled,4<=X<7,100<=X<500,own,1,no known property,1,none,yes
+234,866,25,male div/sep/mar/wid,unskilled resident,1<=X<4,<100,own,2,real estate,1,none,yes
+235,1544,42,male single,unskilled resident,4<=X<7,<100,own,1,real estate,2,none,yes
+236,1823,30,male single,high qualif/self emp/mgmt,unemployed,<100,own,2,car,2,none,yes
+237,14555,23,male single,unemp/unskilled non res,unemployed,no known savings,own,2,life insurance,1,yes,yes
+238,2767,61,male div/sep/mar/wid,unskilled resident,>=7,100<=X<500,rent,2,car,1,none,yes
+239,1291,35,female div/sep/mar/wid,skilled,1<=X<4,<100,own,2,life insurance,1,none,yes
+240,2522,39,male single,skilled,>=7,<100,own,3,life insurance,2,none,yes
+241,915,29,female div/sep/mar/wid,skilled,>=7,no known savings,own,2,car,1,none,yes
+242,1595,51,male single,skilled,4<=X<7,<100,own,2,life insurance,2,none,yes
+243,4605,24,male single,skilled,>=7,<100,for free,4,no known property,2,none,yes
+244,1185,27,female div/sep/mar/wid,skilled,1<=X<4,<100,own,2,real estate,1,none,yes
+245,3447,35,female div/sep/mar/wid,unskilled resident,1<=X<4,500<=X<1000,own,3,real estate,2,none,yes
+246,1258,25,male single,skilled,4<=X<7,<100,own,1,real estate,1,yes,yes
+247,717,52,male single,skilled,>=7,<100,own,4,real estate,1,none,yes
+248,1204,35,male single,skilled,1<=X<4,100<=X<500,rent,1,no known property,1,none,no
+249,1925,26,male single,skilled,1<=X<4,<100,own,2,real estate,1,none,yes
+250,433,22,female div/sep/mar/wid,skilled,unemployed,<100,rent,4,real estate,1,none,yes
+251,666,39,female div/sep/mar/wid,unskilled resident,4<=X<7,>=1000,own,4,real estate,1,yes,yes
+252,2251,46,female div/sep/mar/wid,unskilled resident,1<=X<4,<100,own,2,car,1,none,yes
+253,2150,24,female div/sep/mar/wid,skilled,1<=X<4,<100,own,2,no known property,1,none,yes
+254,4151,35,male single,skilled,1<=X<4,100<=X<500,own,3,life insurance,1,none,yes
+255,2030,24,male single,skilled,4<=X<7,no known savings,own,1,car,1,yes,yes
+256,7418,27,male single,unskilled resident,1<=X<4,no known savings,own,1,real estate,1,none,yes
+257,2684,35,male single,unskilled resident,1<=X<4,<100,own,2,real estate,1,none,yes
+258,2149,29,male div/sep/mar/wid,skilled,1<=X<4,<100,for free,1,no known property,1,none,yes
+259,3812,23,female div/sep/mar/wid,skilled,<1,100<=X<500,own,4,car,1,yes,yes
+260,1154,57,female div/sep/mar/wid,unskilled resident,unemployed,100<=X<500,own,4,real estate,1,none,yes
+261,1657,27,male single,skilled,1<=X<4,<100,own,2,real estate,1,none,yes
+262,1603,55,female div/sep/mar/wid,skilled,>=7,<100,own,4,car,1,none,yes
+263,5302,36,male single,high qualif/self emp/mgmt,>=7,<100,for free,4,no known property,1,yes,yes
+264,2748,57,female div/sep/mar/wid,unskilled resident,>=7,<100,for free,4,no known property,1,none,yes
+265,1231,32,male single,unskilled resident,>=7,<100,own,4,real estate,2,none,no
+266,802,37,male single,skilled,>=7,<100,own,3,car,2,none,yes
+267,6304,36,male single,skilled,>=7,no known savings,own,4,real estate,1,none,yes
+268,1533,38,female div/sep/mar/wid,skilled,<1,<100,own,3,car,1,yes,yes
+269,8978,45,male div/sep/mar/wid,high qualif/self emp/mgmt,>=7,<100,own,4,life insurance,1,yes,no
+270,999,25,male single,skilled,>=7,no known savings,own,2,car,1,none,yes
+271,2662,32,male single,skilled,4<=X<7,no known savings,own,3,life insurance,1,none,no
+272,1402,37,female div/sep/mar/wid,skilled,4<=X<7,500<=X<1000,rent,4,car,1,yes,yes
+273,12169,36,male single,high qualif/self emp/mgmt,unemployed,no known savings,for free,4,no known property,1,yes,yes
+274,3060,28,male single,skilled,4<=X<7,<100,own,4,real estate,1,none,yes
+275,11998,34,male div/sep/mar/wid,unskilled resident,<1,<100,own,1,no known property,1,yes,yes
+276,2697,32,male single,skilled,1<=X<4,<100,own,2,real estate,2,none,yes
+277,2404,26,female div/sep/mar/wid,skilled,1<=X<4,<100,own,2,car,1,none,yes
+278,1262,49,male div/sep/mar/wid,unskilled resident,>=7,no known savings,own,4,life insurance,1,yes,yes
+279,4611,32,female div/sep/mar/wid,skilled,<1,<100,own,4,life insurance,1,none,yes
+280,1901,29,male single,high qualif/self emp/mgmt,1<=X<4,100<=X<500,rent,4,car,1,yes,yes
+281,3368,23,male single,skilled,>=7,>=1000,rent,4,no known property,1,yes,yes
+282,1574,50,male single,skilled,1<=X<4,<100,own,2,real estate,1,none,yes
+283,1445,49,male single,unskilled resident,4<=X<7,no known savings,own,4,car,1,none,yes
+284,1520,63,male single,skilled,>=7,no known savings,own,4,life insurance,1,none,yes
+285,3878,37,male div/sep/mar/wid,skilled,<1,100<=X<500,own,2,car,1,yes,yes
+286,10722,35,female div/sep/mar/wid,unskilled resident,<1,<100,own,1,real estate,1,yes,yes
+287,4788,26,male single,skilled,4<=X<7,<100,own,3,life insurance,2,none,yes
+288,7582,31,male single,high qualif/self emp/mgmt,unemployed,100<=X<500,for free,4,no known property,1,yes,yes
+289,1092,49,female div/sep/mar/wid,skilled,1<=X<4,<100,own,4,real estate,1,yes,yes
+290,1024,48,male div/sep/mar/wid,skilled,<1,<100,own,4,real estate,1,none,yes
+291,1076,26,male div/sep/mar/wid,skilled,1<=X<4,<100,own,2,real estate,1,yes,no
+292,9398,28,male div/sep/mar/wid,high qualif/self emp/mgmt,<1,<100,rent,4,car,1,yes,yes
+293,6419,44,female div/sep/mar/wid,high qualif/self emp/mgmt,>=7,<100,for free,4,no known property,2,yes,yes
+294,4796,56,male single,skilled,>=7,<100,for free,4,no known property,1,none,yes
+295,7629,46,male div/sep/mar/wid,high qualif/self emp/mgmt,>=7,no known savings,own,2,car,2,none,yes
+296,9960,26,female div/sep/mar/wid,skilled,<1,<100,own,2,car,1,yes,yes
+297,4675,20,female div/sep/mar/wid,skilled,<1,no known savings,rent,4,car,1,none,yes
+298,1287,45,male single,unskilled resident,>=7,no known savings,own,2,life insurance,1,none,no
+299,2515,43,male single,skilled,1<=X<4,<100,own,4,real estate,1,yes,yes
+300,2745,32,male single,skilled,4<=X<7,>=1000,own,2,car,1,yes,yes
+301,672,54,female div/sep/mar/wid,unemp/unskilled non res,unemployed,<100,own,4,real estate,1,yes,yes
+302,3804,42,female div/sep/mar/wid,skilled,1<=X<4,<100,own,1,car,1,yes,yes
+303,1344,37,male single,unskilled resident,4<=X<7,no known savings,own,2,real estate,2,none,yes
+304,1038,49,male single,skilled,4<=X<7,<100,own,3,life insurance,1,yes,yes
+305,10127,44,male single,skilled,1<=X<4,500<=X<1000,for free,2,no known property,1,none,yes
+306,1543,33,male div/sep/mar/wid,skilled,1<=X<4,>=1000,own,2,real estate,1,none,yes
+307,4811,24,female div/sep/mar/wid,unskilled resident,4<=X<7,no known savings,rent,4,life insurance,1,none,yes
+308,727,33,male div/sep/mar/wid,unskilled resident,<1,100<=X<500,own,3,no known property,1,yes,yes
+309,1237,24,female div/sep/mar/wid,skilled,1<=X<4,<100,own,4,real estate,1,none,yes
+310,276,22,male div/sep/mar/wid,unskilled resident,1<=X<4,<100,rent,4,real estate,1,none,yes
+311,5381,40,male single,unemp/unskilled non res,unemployed,no known savings,for free,4,no known property,1,yes,yes
+312,5511,25,male single,skilled,1<=X<4,100<=X<500,own,1,car,1,none,yes
+313,3749,26,female div/sep/mar/wid,skilled,<1,<100,own,4,car,1,none,yes
+314,685,25,male div/sep/mar/wid,unskilled resident,4<=X<7,<100,own,3,car,1,none,yes
+315,1494,29,male single,unskilled resident,<1,no known savings,own,2,real estate,2,none,no
+316,2746,31,male single,skilled,>=7,<100,own,4,car,1,none,yes
+317,708,38,male single,unskilled resident,1<=X<4,<100,own,3,life insurance,2,none,yes
+318,4351,48,female div/sep/mar/wid,unskilled resident,1<=X<4,no known savings,own,4,life insurance,1,yes,yes
+319,701,32,male single,skilled,1<=X<4,<100,own,2,car,1,none,yes
+320,3643,27,female div/sep/mar/wid,unskilled resident,>=7,<100,own,4,life insurance,1,none,yes
+321,4249,28,male div/sep/mar/wid,high qualif/self emp/mgmt,unemployed,<100,own,2,car,1,none,yes
+322,1938,32,male div/sep/mar/wid,skilled,<1,<100,own,3,life insurance,1,none,yes
+323,2910,34,male single,high qualif/self emp/mgmt,4<=X<7,<100,for free,1,no known property,1,yes,yes
+324,2659,28,male single,skilled,1<=X<4,>=1000,own,2,car,1,none,yes
+325,1028,36,female div/sep/mar/wid,skilled,1<=X<4,<100,own,3,real estate,1,none,yes
+326,3398,39,male single,unskilled resident,4<=X<7,<100,own,4,real estate,1,none,no
+327,5801,49,male single,skilled,>=7,no known savings,rent,4,life insurance,1,yes,yes
+328,1525,34,female div/sep/mar/wid,skilled,4<=X<7,>=1000,own,3,car,2,yes,yes
+329,4473,31,male single,skilled,>=7,<100,own,2,car,1,none,yes
+330,1068,28,male single,skilled,>=7,<100,own,4,car,2,none,yes
+331,6615,75,male single,high qualif/self emp/mgmt,unemployed,<100,for free,4,no known property,1,yes,yes
+332,1864,30,female div/sep/mar/wid,skilled,1<=X<4,100<=X<500,own,2,real estate,1,none,yes
+333,7408,24,female div/sep/mar/wid,high qualif/self emp/mgmt,<1,100<=X<500,own,2,life insurance,1,none,yes
+334,11590,24,female div/sep/mar/wid,unskilled resident,1<=X<4,100<=X<500,rent,4,car,1,none,yes
+335,4110,23,male single,skilled,>=7,<100,rent,4,no known property,2,none,yes
+336,3384,44,male div/sep/mar/wid,high qualif/self emp/mgmt,1<=X<4,<100,rent,4,real estate,1,yes,yes
+337,2101,23,female div/sep/mar/wid,unskilled resident,<1,<100,own,4,life insurance,1,none,yes
+338,1275,24,female div/sep/mar/wid,skilled,1<=X<4,no known savings,rent,2,car,1,none,yes
+339,4169,28,male single,skilled,1<=X<4,<100,own,4,life insurance,1,none,yes
+340,1521,31,male div/sep/mar/wid,unskilled resident,1<=X<4,<100,own,2,car,1,none,yes
+341,5743,24,female div/sep/mar/wid,skilled,<1,<100,for free,4,no known property,1,yes,yes
+342,3599,26,female div/sep/mar/wid,unskilled resident,4<=X<7,<100,rent,4,car,1,none,yes
+343,3213,25,male div/sep/mar/wid,skilled,<1,500<=X<1000,rent,3,real estate,1,none,yes
+344,4439,33,male single,high qualif/self emp/mgmt,>=7,<100,own,1,real estate,1,yes,yes
+345,3949,37,male single,unskilled resident,<1,<100,own,1,life insurance,2,none,yes
+346,1459,43,female div/sep/mar/wid,unskilled resident,1<=X<4,<100,own,2,car,1,none,yes
+347,882,23,male single,skilled,<1,<100,own,4,real estate,1,none,yes
+348,3758,23,female div/sep/mar/wid,unemp/unskilled non res,unemployed,500<=X<1000,rent,4,no known property,1,none,yes
+349,1743,34,male single,unskilled resident,1<=X<4,100<=X<500,own,2,real estate,1,none,yes
+350,1136,32,male single,skilled,>=7,>=1000,for free,3,no known property,2,none,yes
+351,1236,23,female div/sep/mar/wid,skilled,<1,<100,rent,4,real estate,1,yes,yes
+352,959,29,female div/sep/mar/wid,skilled,1<=X<4,<100,own,2,car,1,none,no
+353,3229,38,male single,high qualif/self emp/mgmt,unemployed,no known savings,own,4,no known property,1,yes,yes
+354,6199,28,male single,skilled,1<=X<4,<100,rent,2,life insurance,1,yes,yes
+355,727,46,male single,skilled,>=7,500<=X<1000,for free,4,no known property,1,yes,yes
+356,1246,23,male single,unskilled resident,<1,<100,own,2,real estate,1,none,yes
+357,2331,49,male single,skilled,>=7,no known savings,own,4,real estate,1,yes,yes
+358,4463,26,male single,high qualif/self emp/mgmt,1<=X<4,<100,own,2,car,1,yes,yes
+359,776,28,male div/sep/mar/wid,skilled,1<=X<4,<100,own,2,real estate,1,none,yes
+360,2406,23,female div/sep/mar/wid,skilled,4<=X<7,<100,rent,4,real estate,1,none,yes
+361,1239,61,male single,skilled,1<=X<4,no known savings,for free,4,no known property,1,none,yes
+362,3399,37,male single,high qualif/self emp/mgmt,>=7,no known savings,own,3,car,1,none,yes
+363,2247,36,female div/sep/mar/wid,skilled,1<=X<4,<100,own,2,car,1,yes,yes
+364,1766,21,male div/sep/mar/wid,skilled,1<=X<4,<100,rent,2,life insurance,1,none,yes
+365,2473,25,male single,unemp/unskilled non res,unemployed,<100,own,1,car,1,none,yes
+366,1542,36,male single,skilled,4<=X<7,<100,own,4,car,1,yes,yes
+367,3850,27,male single,skilled,4<=X<7,<100,own,1,car,1,none,yes
+368,3650,22,female div/sep/mar/wid,skilled,<1,<100,rent,4,car,1,none,yes
+369,3446,42,male single,skilled,>=7,<100,own,2,car,2,none,yes
+370,3001,40,female div/sep/mar/wid,skilled,4<=X<7,<100,rent,4,real estate,1,none,yes
+371,3079,36,male single,skilled,1<=X<4,no known savings,own,4,real estate,1,none,yes
+372,6070,33,male single,skilled,>=7,<100,own,4,car,1,yes,yes
+373,2146,23,female div/sep/mar/wid,skilled,<1,<100,rent,3,real estate,1,none,yes
+374,13756,63,male single,high qualif/self emp/mgmt,>=7,no known savings,for free,4,no known property,1,yes,yes
+375,14782,60,female div/sep/mar/wid,high qualif/self emp/mgmt,>=7,100<=X<500,for free,4,no known property,1,yes,yes
+376,7685,37,female div/sep/mar/wid,skilled,4<=X<7,<100,rent,4,car,1,none,yes
+377,2320,34,male div/sep/mar/wid,skilled,unemployed,<100,own,3,real estate,1,none,yes
+378,846,36,male single,skilled,>=7,no known savings,for free,4,no known property,1,none,yes
+379,14318,57,male single,high qualif/self emp/mgmt,>=7,<100,for free,2,no known property,1,yes,yes
+380,362,52,female div/sep/mar/wid,unskilled resident,1<=X<4,100<=X<500,own,4,car,1,none,yes
+381,2212,39,male single,skilled,4<=X<7,no known savings,own,4,car,1,yes,yes
+382,12976,38,female div/sep/mar/wid,high qualif/self emp/mgmt,unemployed,<100,for free,4,no known property,1,yes,yes
+383,1283,25,female div/sep/mar/wid,skilled,4<=X<7,no known savings,rent,4,life insurance,1,none,yes
+384,1330,26,male single,skilled,<1,<100,own,1,real estate,1,none,yes
+385,4272,26,male single,unskilled resident,1<=X<4,100<=X<500,own,2,life insurance,1,none,yes
+386,2238,25,female div/sep/mar/wid,skilled,1<=X<4,<100,own,1,car,1,none,yes
+387,1126,21,female div/sep/mar/wid,skilled,<1,no known savings,rent,2,real estate,1,yes,yes
+388,7374,40,male single,high qualif/self emp/mgmt,unemployed,<100,own,4,life insurance,1,yes,yes
+389,2326,27,male single,skilled,1<=X<4,500<=X<1000,own,4,car,1,none,yes
+390,1449,27,female div/sep/mar/wid,skilled,4<=X<7,<100,own,2,car,1,none,yes
+391,1820,30,male div/sep/mar/wid,high qualif/self emp/mgmt,1<=X<4,<100,own,2,life insurance,1,yes,yes
+392,983,19,female div/sep/mar/wid,unskilled resident,<1,>=1000,rent,4,real estate,1,none,yes
+393,3249,39,male single,high qualif/self emp/mgmt,4<=X<7,<100,for free,4,no known property,2,yes,yes
+394,1957,31,female div/sep/mar/wid,skilled,4<=X<7,<100,own,4,car,1,none,yes
+395,2406,31,male single,high qualif/self emp/mgmt,unemployed,<100,own,3,car,1,none,yes
+396,11760,32,male single,skilled,4<=X<7,100<=X<500,rent,3,no known property,1,yes,yes
+397,2578,55,female div/sep/mar/wid,high qualif/self emp/mgmt,unemployed,<100,for free,4,no known property,1,none,yes
+398,2348,46,male div/sep/mar/wid,skilled,1<=X<4,<100,own,2,life insurance,1,yes,yes
+399,1223,46,male div/sep/mar/wid,skilled,>=7,<100,rent,1,real estate,1,none,yes
+400,1516,43,female div/sep/mar/wid,unskilled resident,1<=X<4,>=1000,own,1,real estate,1,none,yes
+401,1473,39,male div/sep/mar/wid,skilled,<1,<100,own,4,real estate,1,yes,yes
+402,1887,28,male div/sep/mar/wid,skilled,1<=X<4,no known savings,own,4,real estate,1,none,yes
+403,8648,27,male single,skilled,<1,<100,own,2,car,1,yes,yes
+404,802,27,male single,unskilled resident,1<=X<4,<100,own,2,car,1,none,yes
+405,2899,43,male single,skilled,>=7,no known savings,own,4,car,2,none,yes
+406,2039,22,male div/sep/mar/wid,skilled,<1,<100,own,1,life insurance,1,yes,yes
+407,2197,43,male single,skilled,4<=X<7,no known savings,own,4,car,2,yes,yes
+408,1053,27,male div/sep/mar/wid,skilled,<1,<100,own,2,real estate,1,none,no
+409,3235,26,male div/sep/mar/wid,high qualif/self emp/mgmt,>=7,500<=X<1000,own,2,car,1,yes,yes
+410,939,28,male div/sep/mar/wid,skilled,4<=X<7,500<=X<1000,own,2,real estate,1,yes,yes
+411,1967,20,female div/sep/mar/wid,skilled,>=7,<100,own,4,car,1,yes,yes
+412,7253,35,male single,high qualif/self emp/mgmt,4<=X<7,<100,own,2,car,1,yes,yes
+413,2292,42,male single,high qualif/self emp/mgmt,unemployed,<100,own,2,car,1,yes,yes
+414,1597,40,male single,unskilled resident,1<=X<4,500<=X<1000,rent,2,no known property,2,none,no
+415,1381,35,female div/sep/mar/wid,skilled,1<=X<4,no known savings,own,2,life insurance,1,none,yes
+416,5842,35,male single,skilled,>=7,<100,own,2,life insurance,2,yes,yes
+417,2579,33,male single,unskilled resident,<1,<100,own,1,real estate,2,none,yes
+418,8471,23,female div/sep/mar/wid,skilled,1<=X<4,no known savings,rent,2,car,1,yes,yes
+419,2782,31,female div/sep/mar/wid,high qualif/self emp/mgmt,4<=X<7,500<=X<1000,own,2,car,1,none,yes
+420,1042,33,female div/sep/mar/wid,skilled,1<=X<4,no known savings,own,2,life insurance,1,none,yes
+421,3186,20,female div/sep/mar/wid,skilled,4<=X<7,>=1000,rent,3,car,1,none,yes
+422,2028,30,male single,skilled,1<=X<4,no known savings,own,2,car,1,none,yes
+423,958,47,male single,unskilled resident,4<=X<7,<100,own,3,real estate,2,none,yes
+424,1591,34,male single,high qualif/self emp/mgmt,4<=X<7,100<=X<500,own,3,real estate,1,none,yes
+425,2762,25,female div/sep/mar/wid,skilled,>=7,no known savings,own,2,life insurance,1,yes,yes
+426,2779,21,male div/sep/mar/wid,skilled,1<=X<4,<100,rent,3,car,1,yes,yes
+427,2743,29,male single,skilled,>=7,<100,own,2,car,1,none,yes
+428,1149,46,male single,skilled,1<=X<4,>=1000,own,3,real estate,1,none,yes
+429,1313,20,male single,skilled,>=7,<100,own,4,car,1,none,yes
+430,1190,55,female div/sep/mar/wid,unemp/unskilled non res,unemployed,<100,for free,4,no known property,2,none,yes
+431,3448,74,male single,unskilled resident,4<=X<7,<100,own,4,real estate,1,none,yes
+432,11328,29,male single,high qualif/self emp/mgmt,1<=X<4,<100,own,3,car,1,yes,yes
+433,1872,36,male single,high qualif/self emp/mgmt,unemployed,<100,for free,4,no known property,1,yes,yes
+434,2058,33,male div/sep/mar/wid,skilled,1<=X<4,<100,own,2,real estate,1,yes,yes
+435,2136,25,male single,skilled,1<=X<4,<100,own,2,real estate,1,none,yes
+436,1484,25,male div/sep/mar/wid,skilled,1<=X<4,no known savings,own,1,real estate,1,yes,yes
+437,660,23,male div/sep/mar/wid,unskilled resident,4<=X<7,500<=X<1000,rent,4,real estate,1,none,yes
+438,1287,37,female div/sep/mar/wid,skilled,>=7,>=1000,own,4,real estate,1,yes,yes
+439,3394,65,male single,unemp/unskilled non res,unemployed,<100,own,4,car,1,none,yes
+440,609,26,female div/sep/mar/wid,unemp/unskilled non res,<1,<100,own,1,real estate,1,none,yes
+441,1884,39,male single,high qualif/self emp/mgmt,>=7,<100,own,4,car,1,yes,yes
+442,1620,30,female div/sep/mar/wid,skilled,1<=X<4,<100,own,3,life insurance,1,none,yes
+443,2629,29,male single,skilled,1<=X<4,<100,own,3,car,1,yes,yes
+444,719,41,male single,unskilled resident,>=7,<100,own,4,car,2,none,yes
+445,5096,30,female div/sep/mar/wid,high qualif/self emp/mgmt,1<=X<4,<100,own,3,car,1,yes,yes
+446,1244,41,female div/sep/mar/wid,unskilled resident,>=7,no known savings,rent,4,life insurance,1,none,yes
+447,1842,34,female div/sep/mar/wid,skilled,<1,<100,own,4,car,1,yes,yes
+448,2576,35,male single,skilled,1<=X<4,<100,own,2,real estate,1,none,yes
+449,1424,55,female div/sep/mar/wid,high qualif/self emp/mgmt,>=7,no known savings,own,4,real estate,1,yes,yes
+450,1512,61,male div/sep/mar/wid,skilled,1<=X<4,>=1000,own,3,life insurance,1,none,yes
+451,11054,30,male single,high qualif/self emp/mgmt,1<=X<4,no known savings,own,2,car,1,yes,yes
+452,518,29,female div/sep/mar/wid,skilled,1<=X<4,<100,own,1,real estate,1,none,yes
+453,2759,34,male single,skilled,>=7,<100,own,4,life insurance,1,none,yes
+454,2670,35,male single,high qualif/self emp/mgmt,>=7,<100,own,4,car,1,yes,yes
+455,4817,31,male single,skilled,4<=X<7,<100,own,3,life insurance,1,yes,yes
+456,2679,29,female div/sep/mar/wid,high qualif/self emp/mgmt,<1,<100,own,1,no known property,1,yes,yes
+457,3905,36,male single,skilled,1<=X<4,<100,rent,2,real estate,2,none,yes
+458,3386,35,male single,skilled,>=7,<100,for free,4,no known property,1,yes,yes
+459,343,27,female div/sep/mar/wid,skilled,<1,<100,own,1,real estate,1,none,yes
+460,4594,32,male single,skilled,<1,<100,own,2,car,1,yes,yes
+461,3620,37,male single,skilled,1<=X<4,<100,own,2,life insurance,2,none,yes
+462,1721,36,male single,skilled,<1,<100,own,3,real estate,1,none,yes
+463,3017,34,female div/sep/mar/wid,high qualif/self emp/mgmt,<1,<100,rent,1,real estate,1,none,yes
+464,754,38,male single,skilled,>=7,no known savings,own,4,life insurance,1,none,yes
+465,1950,34,male single,skilled,4<=X<7,<100,own,1,car,1,yes,yes
+466,2924,63,male single,skilled,1<=X<4,<100,own,4,no known property,2,yes,yes
+467,1659,29,female div/sep/mar/wid,unskilled resident,<1,<100,rent,2,car,1,yes,yes
+468,7238,32,male single,skilled,>=7,no known savings,own,3,car,2,none,yes
+469,2764,26,female div/sep/mar/wid,skilled,1<=X<4,<100,own,2,car,1,yes,yes
+470,4679,35,male single,unskilled resident,4<=X<7,<100,own,3,car,1,yes,yes
+471,3092,22,male div/sep/mar/wid,skilled,<1,100<=X<500,rent,2,car,1,yes,yes
+472,448,23,female div/sep/mar/wid,skilled,<1,<100,own,4,life insurance,1,none,yes
+473,654,28,male single,unskilled resident,1<=X<4,<100,own,3,car,1,none,yes
+474,1238,36,male single,high qualif/self emp/mgmt,unemployed,no known savings,own,4,life insurance,2,yes,yes
+475,1245,33,male div/sep/mar/wid,skilled,1<=X<4,<100,own,2,car,1,none,yes
+476,3114,26,female div/sep/mar/wid,skilled,<1,<100,rent,4,life insurance,1,none,yes
+477,2569,24,male single,skilled,1<=X<4,500<=X<1000,own,4,car,1,none,yes
+478,5152,25,male single,skilled,4<=X<7,<100,own,2,car,1,none,yes
+479,1037,39,male single,unskilled resident,4<=X<7,100<=X<500,own,4,real estate,1,none,yes
+480,1478,44,male single,skilled,>=7,<100,own,4,car,2,yes,yes
+481,3573,23,female div/sep/mar/wid,unskilled resident,1<=X<4,<100,own,1,real estate,1,none,yes
+482,1201,26,male single,skilled,<1,<100,own,1,life insurance,1,none,yes
+483,3622,57,female div/sep/mar/wid,skilled,>=7,>=1000,rent,4,life insurance,1,yes,yes
+484,960,30,female div/sep/mar/wid,skilled,4<=X<7,>=1000,own,2,life insurance,1,none,yes
+485,1163,44,male single,skilled,1<=X<4,500<=X<1000,own,4,real estate,1,yes,yes
+486,1209,47,male single,high qualif/self emp/mgmt,unemployed,<100,own,4,life insurance,1,yes,yes
+487,3077,52,male single,skilled,1<=X<4,<100,own,4,car,1,yes,yes
+488,3757,62,female div/sep/mar/wid,skilled,>=7,<100,for free,4,no known property,1,yes,yes
+489,1418,35,male single,unskilled resident,1<=X<4,100<=X<500,rent,2,real estate,1,none,no
+490,3518,26,male single,skilled,1<=X<4,<100,rent,3,life insurance,1,none,yes
+491,1934,26,male single,skilled,>=7,<100,own,2,no known property,1,none,yes
+492,8318,42,female div/sep/mar/wid,high qualif/self emp/mgmt,>=7,<100,for free,4,no known property,1,yes,yes
+493,1237,27,female div/sep/mar/wid,skilled,1<=X<4,100<=X<500,own,1,life insurance,1,none,yes
+494,368,38,male single,skilled,>=7,no known savings,own,4,life insurance,1,none,yes
+495,2122,39,male single,unskilled resident,1<=X<4,<100,rent,2,real estate,2,none,no
+496,2996,20,male div/sep/mar/wid,skilled,1<=X<4,no known savings,own,4,car,1,none,yes
+497,9034,29,male single,high qualif/self emp/mgmt,<1,100<=X<500,rent,1,no known property,1,yes,yes
+498,1585,40,male single,skilled,4<=X<7,<100,own,3,life insurance,1,none,yes
+499,1301,32,male div/sep/mar/wid,unskilled resident,>=7,<100,own,2,real estate,1,none,yes
+500,1323,28,male div/sep/mar/wid,skilled,>=7,100<=X<500,own,4,car,2,yes,yes
+501,3123,27,female div/sep/mar/wid,skilled,<1,<100,own,1,life insurance,1,none,yes
+502,5493,42,male single,skilled,>=7,<100,for free,4,no known property,2,none,yes
+503,1126,49,male div/sep/mar/wid,skilled,>=7,100<=X<500,own,4,real estate,1,none,yes
+504,1216,38,male single,skilled,<1,100<=X<500,own,4,no known property,2,none,yes
+505,1207,24,female div/sep/mar/wid,skilled,<1,<100,rent,4,life insurance,1,none,yes
+506,1309,27,male single,unskilled resident,1<=X<4,no known savings,own,4,life insurance,1,none,yes
+507,2360,36,male single,skilled,1<=X<4,500<=X<1000,own,2,car,1,yes,yes
+508,6850,34,male single,high qualif/self emp/mgmt,unemployed,100<=X<500,own,2,life insurance,2,yes,yes
+509,1413,28,male div/sep/mar/wid,skilled,1<=X<4,<100,own,2,life insurance,1,none,yes
+510,8588,45,male single,high qualif/self emp/mgmt,>=7,100<=X<500,own,2,car,1,yes,yes
+511,759,26,male single,skilled,4<=X<7,<100,own,2,real estate,1,none,yes
+512,4686,32,male single,high qualif/self emp/mgmt,1<=X<4,<100,for free,2,no known property,1,yes,yes
+513,2687,26,male single,skilled,4<=X<7,<100,rent,4,life insurance,1,yes,yes
+514,585,20,male div/sep/mar/wid,skilled,1<=X<4,<100,rent,4,real estate,1,none,yes
+515,2255,54,male single,skilled,<1,no known savings,own,1,life insurance,1,none,yes
+516,609,37,female div/sep/mar/wid,skilled,4<=X<7,<100,own,3,life insurance,1,none,no
+517,1361,40,male single,unskilled resident,<1,<100,own,4,real estate,2,none,no
+518,7127,23,female div/sep/mar/wid,skilled,<1,<100,rent,4,life insurance,1,yes,yes
+519,1203,43,male single,skilled,>=7,100<=X<500,own,2,life insurance,1,yes,yes
+520,700,36,male single,skilled,>=7,no known savings,for free,4,no known property,1,none,yes
+521,5507,44,male single,skilled,>=7,<100,for free,4,no known property,1,none,yes
+522,3190,24,female div/sep/mar/wid,skilled,1<=X<4,<100,own,2,real estate,1,none,yes
+523,7119,53,male single,skilled,1<=X<4,<100,for free,4,no known property,2,none,yes
+524,3488,23,female div/sep/mar/wid,skilled,4<=X<7,100<=X<500,own,4,car,1,none,yes
+525,1113,26,female div/sep/mar/wid,unskilled resident,1<=X<4,<100,own,4,real estate,2,none,yes
+526,7966,30,male single,skilled,<1,<100,own,3,car,1,none,yes
+527,1532,31,female div/sep/mar/wid,skilled,1<=X<4,100<=X<500,own,3,car,1,none,yes
+528,1503,42,male single,unskilled resident,4<=X<7,<100,own,1,real estate,2,none,yes
+529,2302,31,male div/sep/mar/wid,skilled,1<=X<4,<100,rent,4,car,1,none,yes
+530,662,41,male single,unskilled resident,<1,<100,own,4,real estate,2,yes,yes
+531,2273,32,male single,skilled,4<=X<7,<100,own,1,car,2,none,yes
+532,2631,28,female div/sep/mar/wid,skilled,1<=X<4,100<=X<500,rent,4,car,1,yes,yes
+533,1503,41,male div/sep/mar/wid,skilled,1<=X<4,<100,rent,4,real estate,1,none,yes
+534,1311,26,male div/sep/mar/wid,skilled,4<=X<7,100<=X<500,own,3,life insurance,1,yes,yes
+535,3105,25,male single,skilled,<1,no known savings,own,2,car,1,none,yes
+536,2319,33,male div/sep/mar/wid,skilled,<1,<100,rent,1,car,1,none,yes
+537,1374,75,female div/sep/mar/wid,high qualif/self emp/mgmt,unemployed,no known savings,own,3,life insurance,1,yes,yes
+538,3612,37,female div/sep/mar/wid,skilled,>=7,<100,own,4,life insurance,1,yes,yes
+539,7763,42,male single,high qualif/self emp/mgmt,>=7,<100,for free,4,no known property,1,none,yes
+540,3049,45,female div/sep/mar/wid,unskilled resident,<1,<100,own,1,life insurance,1,none,yes
+541,1534,23,male div/sep/mar/wid,skilled,<1,<100,rent,1,real estate,1,none,yes
+542,2032,60,male single,skilled,>=7,<100,for free,4,no known property,1,yes,yes
+543,6350,31,male single,skilled,>=7,no known savings,own,4,life insurance,1,none,yes
+544,2864,34,male single,unskilled resident,1<=X<4,<100,own,1,real estate,2,none,yes
+545,1255,61,male single,unskilled resident,>=7,<100,own,4,real estate,1,none,yes
+546,1333,43,male single,skilled,unemployed,<100,for free,2,real estate,2,none,yes
+547,2022,37,female div/sep/mar/wid,skilled,1<=X<4,<100,own,4,car,1,yes,yes
+548,1552,32,male single,skilled,4<=X<7,<100,own,1,car,2,none,yes
+549,626,24,female div/sep/mar/wid,unskilled resident,1<=X<4,<100,own,4,real estate,1,none,yes
+550,8858,35,male single,skilled,4<=X<7,no known savings,for free,1,no known property,1,yes,yes
+551,996,23,female div/sep/mar/wid,skilled,4<=X<7,no known savings,own,4,real estate,1,none,yes
+552,1750,45,male single,unskilled resident,>=7,500<=X<1000,own,4,life insurance,2,none,yes
+553,6999,34,male div/sep/mar/wid,skilled,4<=X<7,<100,own,1,real estate,1,yes,yes
+554,1995,27,male single,skilled,<1,100<=X<500,own,1,car,1,none,yes
+555,1199,67,female div/sep/mar/wid,high qualif/self emp/mgmt,4<=X<7,<100,own,4,life insurance,1,yes,yes
+556,1331,22,male single,skilled,<1,<100,own,1,car,1,none,yes
+557,2278,28,female div/sep/mar/wid,skilled,<1,100<=X<500,own,3,car,1,none,yes
+558,5003,29,female div/sep/mar/wid,skilled,1<=X<4,no known savings,own,4,life insurance,1,yes,yes
+559,3552,27,male single,skilled,4<=X<7,<100,own,4,car,1,none,yes
+560,1928,31,male single,unskilled resident,<1,<100,own,2,real estate,1,none,yes
+561,2964,49,male single,skilled,>=7,no known savings,for free,4,no known property,2,yes,yes
+562,1546,24,male single,unskilled resident,4<=X<7,<100,rent,4,car,1,none,yes
+563,683,29,female div/sep/mar/wid,skilled,<1,<100,own,1,life insurance,1,none,yes
+564,12389,37,male single,skilled,1<=X<4,no known savings,for free,4,no known property,1,yes,yes
+565,4712,37,male single,high qualif/self emp/mgmt,1<=X<4,no known savings,own,2,life insurance,1,yes,yes
+566,1553,23,female div/sep/mar/wid,skilled,4<=X<7,100<=X<500,rent,2,life insurance,1,yes,yes
+567,1372,36,male div/sep/mar/wid,skilled,4<=X<7,<100,own,3,car,1,none,yes
+568,2578,34,male single,skilled,>=7,>=1000,own,2,car,1,none,yes
+569,3979,41,male single,skilled,4<=X<7,no known savings,own,1,car,2,yes,yes
+570,6758,31,female div/sep/mar/wid,skilled,1<=X<4,<100,own,2,car,1,yes,yes
+571,3234,23,female div/sep/mar/wid,unskilled resident,<1,<100,rent,4,real estate,1,yes,yes
+572,5954,38,male single,skilled,4<=X<7,<100,own,2,car,1,none,yes
+573,5433,26,female div/sep/mar/wid,high qualif/self emp/mgmt,unemployed,no known savings,rent,4,life insurance,1,yes,yes
+574,806,22,female div/sep/mar/wid,unskilled resident,1<=X<4,<100,own,4,life insurance,1,none,yes
+575,1082,27,male single,unskilled resident,>=7,<100,own,4,car,1,none,yes
+576,2788,24,female div/sep/mar/wid,skilled,4<=X<7,<100,own,3,car,1,none,yes
+577,2930,27,female div/sep/mar/wid,skilled,4<=X<7,<100,own,1,real estate,1,none,yes
+578,1927,33,female div/sep/mar/wid,skilled,1<=X<4,no known savings,own,2,car,1,yes,yes
+579,2820,27,male div/sep/mar/wid,skilled,<1,<100,own,4,car,1,none,yes
+580,937,27,male div/sep/mar/wid,unskilled resident,<1,<100,own,3,car,1,none,yes
+581,1056,30,male single,skilled,>=7,<100,own,3,real estate,1,none,yes
+582,3124,49,male single,unskilled resident,<1,<100,own,3,real estate,2,none,yes
+583,1388,26,female div/sep/mar/wid,skilled,1<=X<4,<100,rent,2,real estate,1,none,yes
+584,2384,33,male single,unskilled resident,<1,<100,rent,1,no known property,1,none,yes
+585,2133,52,female div/sep/mar/wid,high qualif/self emp/mgmt,>=7,no known savings,for free,4,no known property,1,yes,yes
+586,2039,20,female div/sep/mar/wid,skilled,1<=X<4,<100,rent,4,real estate,1,none,yes
+587,2799,36,male single,skilled,1<=X<4,<100,rent,2,real estate,2,none,yes
+588,1289,21,male single,unskilled resident,1<=X<4,<100,own,1,life insurance,1,none,yes
+589,1217,47,male div/sep/mar/wid,unskilled resident,1<=X<4,<100,own,3,real estate,1,yes,yes
+590,2246,60,male single,skilled,>=7,<100,own,3,life insurance,1,none,yes
+591,385,58,female div/sep/mar/wid,unskilled resident,4<=X<7,<100,own,3,real estate,1,yes,yes
+592,1965,42,female div/sep/mar/wid,skilled,1<=X<4,no known savings,rent,4,car,1,yes,yes
+593,1572,36,female div/sep/mar/wid,unskilled resident,>=7,>=1000,own,4,real estate,1,none,yes
+594,2718,20,female div/sep/mar/wid,unskilled resident,1<=X<4,<100,rent,4,life insurance,1,yes,yes
+595,1358,40,male single,high qualif/self emp/mgmt,>=7,no known savings,own,3,car,1,yes,yes
+596,931,32,female div/sep/mar/wid,unskilled resident,<1,100<=X<500,own,1,life insurance,1,none,yes
+597,1442,23,female div/sep/mar/wid,skilled,4<=X<7,<100,rent,4,car,1,none,yes
+598,4241,36,male single,unskilled resident,1<=X<4,<100,own,4,real estate,1,yes,yes
+599,2775,31,male single,skilled,4<=X<7,<100,own,2,life insurance,1,none,yes
+600,3863,32,male single,skilled,1<=X<4,<100,for free,2,no known property,1,none,yes
+601,2329,45,female div/sep/mar/wid,skilled,<1,<100,own,1,real estate,1,none,yes
+602,918,30,female div/sep/mar/wid,skilled,1<=X<4,<100,own,1,life insurance,1,none,yes
+603,1837,34,female div/sep/mar/wid,unskilled resident,4<=X<7,<100,for free,4,no known property,1,none,yes
+604,3349,28,female div/sep/mar/wid,high qualif/self emp/mgmt,1<=X<4,<100,own,2,car,1,yes,yes
+605,1275,23,female div/sep/mar/wid,skilled,<1,<100,own,2,life insurance,1,none,yes
+606,2828,22,male single,skilled,1<=X<4,500<=X<1000,own,4,real estate,1,yes,yes
+607,4526,74,male single,high qualif/self emp/mgmt,1<=X<4,<100,own,2,real estate,1,yes,yes
+608,2671,50,female div/sep/mar/wid,skilled,1<=X<4,100<=X<500,for free,4,no known property,1,none,yes
+609,2051,33,male single,skilled,<1,<100,own,1,real estate,1,none,yes
+610,1300,45,male single,skilled,>=7,no known savings,for free,4,no known property,2,none,yes
+611,741,22,female div/sep/mar/wid,skilled,unemployed,100<=X<500,own,3,life insurance,1,none,yes
+612,1240,48,female div/sep/mar/wid,unskilled resident,>=7,100<=X<500,for free,4,no known property,2,none,yes
+613,3357,29,female div/sep/mar/wid,skilled,<1,>=1000,own,2,car,1,none,yes
+614,3632,22,female div/sep/mar/wid,skilled,1<=X<4,<100,rent,4,car,1,none,no
+615,1808,22,female div/sep/mar/wid,skilled,4<=X<7,<100,own,1,real estate,1,none,yes
+616,12204,48,male single,high qualif/self emp/mgmt,1<=X<4,no known savings,own,2,car,1,yes,yes
+617,9157,27,male single,high qualif/self emp/mgmt,1<=X<4,no known savings,for free,2,no known property,1,none,yes
+618,3676,37,male single,skilled,1<=X<4,<100,rent,3,real estate,2,none,yes
+619,3441,21,female div/sep/mar/wid,skilled,1<=X<4,100<=X<500,rent,4,car,1,none,yes
+620,640,49,male div/sep/mar/wid,unskilled resident,1<=X<4,<100,own,2,real estate,1,none,yes
+621,3652,27,male single,skilled,4<=X<7,<100,own,3,life insurance,1,none,yes
+622,1530,32,male single,skilled,1<=X<4,<100,own,2,life insurance,1,none,yes
+623,3914,38,male div/sep/mar/wid,skilled,1<=X<4,no known savings,own,2,real estate,1,none,yes
+624,1858,22,female div/sep/mar/wid,skilled,<1,<100,rent,1,car,1,none,yes
+625,2600,65,male single,skilled,1<=X<4,<100,for free,4,no known property,1,none,yes
+626,1979,35,male single,skilled,>=7,no known savings,own,2,car,1,none,yes
+627,2116,41,male single,skilled,1<=X<4,<100,own,2,real estate,1,yes,yes
+628,1437,29,male single,skilled,4<=X<7,100<=X<500,own,3,no known property,1,none,yes
+629,4042,36,male single,skilled,1<=X<4,500<=X<1000,own,4,real estate,1,yes,yes
+630,3832,64,male single,unskilled resident,>=7,no known savings,own,4,real estate,1,none,yes
+631,3660,28,female div/sep/mar/wid,skilled,1<=X<4,<100,own,4,car,1,none,yes
+632,1553,44,male single,skilled,1<=X<4,<100,own,3,car,1,none,yes
+633,1444,23,male single,skilled,<1,no known savings,own,1,life insurance,1,none,yes
+634,1980,19,female div/sep/mar/wid,skilled,<1,<100,rent,2,car,1,none,yes
+635,1355,25,female div/sep/mar/wid,unskilled resident,<1,<100,own,4,car,1,yes,yes
+636,1393,47,male single,skilled,>=7,<100,own,4,life insurance,2,yes,yes
+637,1376,28,female div/sep/mar/wid,skilled,4<=X<7,500<=X<1000,own,1,car,1,none,yes
+638,15653,21,male single,skilled,4<=X<7,<100,own,4,car,1,yes,yes
+639,1493,34,female div/sep/mar/wid,skilled,<1,<100,own,3,car,2,none,yes
+640,4370,26,male single,skilled,4<=X<7,<100,own,2,life insurance,2,yes,yes
+641,750,27,female div/sep/mar/wid,unemp/unskilled non res,unemployed,<100,own,1,real estate,1,none,yes
+642,1308,38,male single,unskilled resident,>=7,<100,own,4,car,1,none,yes
+643,4623,40,male single,high qualif/self emp/mgmt,1<=X<4,100<=X<500,own,2,life insurance,1,yes,yes
+644,1851,33,male div/sep/mar/wid,skilled,4<=X<7,<100,own,2,car,1,yes,yes
+645,1880,32,male div/sep/mar/wid,high qualif/self emp/mgmt,4<=X<7,<100,own,1,life insurance,1,yes,yes
+646,7980,27,male single,skilled,<1,no known savings,rent,4,car,1,yes,yes
+647,4583,32,male div/sep/mar/wid,skilled,1<=X<4,<100,own,2,real estate,1,none,yes
+648,1386,26,female div/sep/mar/wid,skilled,1<=X<4,500<=X<1000,own,2,life insurance,1,none,yes
+649,947,38,male single,skilled,4<=X<7,<100,for free,3,no known property,2,none,yes
+650,684,40,male single,unskilled resident,1<=X<4,<100,rent,4,car,2,none,yes
+651,7476,50,male single,high qualif/self emp/mgmt,4<=X<7,<100,for free,1,no known property,1,yes,yes
+652,1922,37,male single,unskilled resident,1<=X<4,<100,own,2,life insurance,1,none,yes
+653,2303,45,male single,skilled,>=7,<100,own,1,real estate,1,none,yes
+654,8086,42,male single,high qualif/self emp/mgmt,>=7,100<=X<500,own,4,car,1,yes,yes
+655,2346,35,male single,skilled,4<=X<7,<100,own,3,car,1,yes,yes
+656,3973,22,male single,skilled,unemployed,<100,for free,4,no known property,1,none,yes
+657,888,41,male single,unskilled resident,>=7,<100,own,4,car,2,none,yes
+658,10222,37,male single,skilled,4<=X<7,no known savings,own,3,car,1,yes,yes
+659,4221,28,female div/sep/mar/wid,skilled,1<=X<4,<100,own,1,car,1,none,yes
+660,6361,41,male single,skilled,>=7,<100,own,1,no known property,1,yes,yes
+661,1297,23,male div/sep/mar/wid,skilled,1<=X<4,<100,rent,4,real estate,1,none,yes
+662,900,23,male div/sep/mar/wid,skilled,1<=X<4,no known savings,own,2,car,1,none,yes
+663,2241,50,male single,skilled,>=7,<100,own,2,real estate,1,none,yes
+664,1050,35,male single,high qualif/self emp/mgmt,unemployed,<100,own,1,life insurance,1,yes,yes
+665,1047,50,female div/sep/mar/wid,unskilled resident,1<=X<4,<100,own,4,life insurance,1,none,yes
+666,6314,27,male single,high qualif/self emp/mgmt,unemployed,<100,own,2,no known property,1,yes,yes
+667,3496,34,male single,skilled,1<=X<4,>=1000,own,2,car,2,yes,yes
+668,3609,27,female div/sep/mar/wid,skilled,1<=X<4,<100,own,1,real estate,1,none,yes
+669,4843,43,male single,skilled,>=7,<100,rent,4,life insurance,1,yes,yes
+670,3017,47,male single,skilled,>=7,<100,own,4,life insurance,1,none,yes
+671,4139,27,male single,unskilled resident,1<=X<4,100<=X<500,own,3,life insurance,1,yes,yes
+672,5742,31,male single,skilled,4<=X<7,100<=X<500,own,2,car,1,yes,yes
+673,10366,42,male single,high qualif/self emp/mgmt,>=7,<100,own,4,life insurance,1,yes,yes
+674,2080,24,male div/sep/mar/wid,skilled,1<=X<4,500<=X<1000,own,2,car,1,none,yes
+675,2580,41,male single,unskilled resident,<1,500<=X<1000,own,2,real estate,2,none,yes
+676,4530,26,female div/sep/mar/wid,high qualif/self emp/mgmt,4<=X<7,<100,rent,4,car,1,yes,yes
+677,5150,33,male single,skilled,>=7,<100,own,4,car,1,yes,yes
+678,5595,24,male div/sep/mar/wid,skilled,1<=X<4,100<=X<500,own,2,car,1,none,yes
+679,2384,64,male single,unskilled resident,>=7,<100,rent,4,real estate,1,none,yes
+680,1453,26,female div/sep/mar/wid,skilled,<1,<100,own,1,real estate,1,none,yes
+681,1538,56,female div/sep/mar/wid,skilled,<1,<100,own,2,no known property,1,none,yes
+682,2279,37,male single,skilled,1<=X<4,no known savings,for free,4,no known property,1,yes,yes
+683,1478,33,male div/sep/mar/wid,skilled,1<=X<4,<100,own,3,real estate,1,none,yes
+684,5103,47,male div/sep/mar/wid,skilled,<1,<100,for free,3,no known property,1,yes,yes
+685,9857,31,male single,unskilled resident,4<=X<7,100<=X<500,own,3,life insurance,2,yes,yes
+686,6527,34,male single,skilled,1<=X<4,no known savings,for free,4,no known property,2,yes,yes
+687,1347,27,male single,skilled,4<=X<7,no known savings,own,2,life insurance,1,yes,yes
+688,2862,30,male single,skilled,>=7,100<=X<500,for free,3,no known property,1,none,yes
+689,2753,35,male single,skilled,>=7,100<=X<500,own,4,car,1,yes,yes
+690,3651,31,male single,skilled,1<=X<4,>=1000,own,3,life insurance,2,none,yes
+691,975,25,male div/sep/mar/wid,skilled,1<=X<4,<100,own,3,life insurance,1,none,yes
+692,2631,25,female div/sep/mar/wid,unskilled resident,1<=X<4,100<=X<500,own,2,real estate,1,none,yes
+693,2896,29,male single,skilled,<1,100<=X<500,own,1,car,1,none,yes
+694,4716,44,male single,unskilled resident,<1,no known savings,own,3,real estate,2,none,yes
+695,2284,28,male single,skilled,4<=X<7,<100,own,2,car,1,yes,yes
+696,1236,50,male single,skilled,1<=X<4,500<=X<1000,rent,4,life insurance,1,none,yes
+697,1103,29,male single,skilled,4<=X<7,<100,own,3,real estate,1,none,no
+698,926,38,female div/sep/mar/wid,unemp/unskilled non res,unemployed,<100,own,2,life insurance,1,none,yes
+699,1800,24,male single,skilled,1<=X<4,<100,own,2,car,1,none,yes
+700,1905,40,male single,high qualif/self emp/mgmt,>=7,<100,rent,4,car,1,yes,yes
+701,1123,29,female div/sep/mar/wid,unskilled resident,1<=X<4,500<=X<1000,rent,4,car,1,none,yes
+702,6331,46,male single,skilled,>=7,<100,for free,4,no known property,1,yes,yes
+703,1377,47,female div/sep/mar/wid,skilled,>=7,100<=X<500,for free,2,no known property,1,yes,yes
+704,2503,41,male single,skilled,>=7,100<=X<500,own,2,life insurance,1,none,yes
+705,2528,32,female div/sep/mar/wid,skilled,<1,<100,own,1,life insurance,2,yes,yes
+706,5324,35,female div/sep/mar/wid,skilled,>=7,500<=X<1000,for free,4,no known property,1,none,yes
+707,6560,24,male single,skilled,4<=X<7,100<=X<500,own,2,life insurance,1,none,yes
+708,2969,25,female div/sep/mar/wid,skilled,<1,<100,rent,3,life insurance,1,none,yes
+709,1206,25,female div/sep/mar/wid,skilled,>=7,<100,own,4,real estate,1,none,yes
+710,2118,37,male single,unskilled resident,1<=X<4,<100,own,2,real estate,2,none,yes
+711,629,32,male single,high qualif/self emp/mgmt,>=7,500<=X<1000,own,3,life insurance,1,yes,yes
+712,1198,35,female div/sep/mar/wid,skilled,>=7,<100,for free,4,no known property,1,none,yes
+713,2476,46,male single,high qualif/self emp/mgmt,>=7,no known savings,own,4,real estate,1,yes,yes
+714,1138,25,male single,unskilled resident,1<=X<4,<100,own,4,real estate,1,none,yes
+715,14027,27,male single,high qualif/self emp/mgmt,4<=X<7,<100,own,2,no known property,1,yes,yes
+716,7596,63,male single,skilled,>=7,no known savings,own,4,car,1,none,yes
+717,3077,40,male single,skilled,>=7,no known savings,own,2,car,2,yes,yes
+718,1505,32,male single,high qualif/self emp/mgmt,1<=X<4,<100,for free,2,no known property,1,yes,yes
+719,3148,31,male single,skilled,1<=X<4,no known savings,own,2,car,1,yes,yes
+720,6148,31,male div/sep/mar/wid,skilled,>=7,100<=X<500,own,4,car,1,yes,yes
+721,1337,34,male single,high qualif/self emp/mgmt,<1,<100,own,2,car,1,yes,yes
+722,433,24,female div/sep/mar/wid,skilled,<1,>=1000,rent,2,life insurance,2,none,yes
+723,1228,24,female div/sep/mar/wid,unskilled resident,1<=X<4,<100,own,2,real estate,1,none,yes
+724,790,66,female div/sep/mar/wid,unskilled resident,1<=X<4,500<=X<1000,own,3,real estate,1,none,yes
+725,2570,21,female div/sep/mar/wid,skilled,1<=X<4,<100,rent,3,real estate,1,none,yes
+726,250,41,female div/sep/mar/wid,unskilled resident,1<=X<4,>=1000,own,2,real estate,1,none,yes
+727,1316,47,male div/sep/mar/wid,unskilled resident,1<=X<4,500<=X<1000,own,2,life insurance,1,none,yes
+728,1882,25,female div/sep/mar/wid,skilled,1<=X<4,<100,rent,4,car,1,none,yes
+729,6416,59,female div/sep/mar/wid,skilled,>=7,<100,rent,3,no known property,1,none,yes
+730,1275,36,male div/sep/mar/wid,skilled,1<=X<4,>=1000,own,4,real estate,1,yes,yes
+731,6403,33,male single,skilled,<1,<100,own,2,car,1,none,yes
+732,1987,21,male single,unskilled resident,1<=X<4,<100,rent,4,real estate,2,none,yes
+733,760,44,female div/sep/mar/wid,unskilled resident,4<=X<7,<100,own,2,real estate,1,none,yes
+734,2603,28,female div/sep/mar/wid,skilled,1<=X<4,>=1000,rent,4,car,1,yes,yes
+735,3380,37,female div/sep/mar/wid,skilled,4<=X<7,<100,own,1,real estate,2,none,yes
+736,3990,29,female div/sep/mar/wid,unemp/unskilled non res,<1,no known savings,own,2,no known property,1,none,yes
+737,11560,23,female div/sep/mar/wid,high qualif/self emp/mgmt,1<=X<4,<100,rent,4,car,1,none,yes
+738,4380,35,male single,unskilled resident,1<=X<4,100<=X<500,own,4,car,2,yes,yes
+739,6761,45,male single,high qualif/self emp/mgmt,4<=X<7,<100,own,3,no known property,2,yes,yes
+740,4280,26,female div/sep/mar/wid,unskilled resident,1<=X<4,100<=X<500,rent,4,car,1,none,yes
+741,2325,32,male single,skilled,4<=X<7,100<=X<500,own,3,car,1,none,yes
+742,1048,23,male single,unskilled resident,1<=X<4,<100,own,4,real estate,1,none,yes
+743,3160,41,male single,skilled,>=7,no known savings,own,3,life insurance,1,yes,yes
+744,2483,22,male single,skilled,1<=X<4,500<=X<1000,own,4,real estate,1,yes,yes
+745,14179,30,male single,high qualif/self emp/mgmt,4<=X<7,no known savings,own,4,life insurance,1,yes,yes
+746,1797,28,male single,unskilled resident,<1,<100,own,1,life insurance,1,none,yes
+747,2511,23,female div/sep/mar/wid,skilled,unemployed,<100,rent,4,car,1,none,yes
+748,1274,37,female div/sep/mar/wid,unskilled resident,<1,<100,own,1,real estate,1,none,yes
+749,5248,26,male single,skilled,1<=X<4,no known savings,own,3,car,1,none,yes
+750,3029,33,male single,skilled,4<=X<7,<100,own,2,car,1,none,yes
+751,428,49,female div/sep/mar/wid,skilled,>=7,<100,own,1,life insurance,1,yes,yes
+752,976,23,female div/sep/mar/wid,unskilled resident,<1,<100,own,2,car,1,none,yes
+753,841,23,female div/sep/mar/wid,unskilled resident,4<=X<7,100<=X<500,rent,4,real estate,1,none,yes
+754,5771,25,female div/sep/mar/wid,skilled,4<=X<7,<100,own,2,car,1,none,yes
+755,1555,55,male single,skilled,>=7,>=1000,for free,4,no known property,2,none,yes
+756,1285,32,female div/sep/mar/wid,skilled,4<=X<7,no known savings,rent,4,no known property,1,none,yes
+757,1299,74,male single,unemp/unskilled non res,1<=X<4,<100,own,1,real estate,2,none,no
+758,1271,39,male single,skilled,1<=X<4,no known savings,for free,4,no known property,1,yes,yes
+759,1393,31,male single,skilled,1<=X<4,<100,own,2,real estate,1,yes,yes
+760,691,35,male single,skilled,>=7,<100,own,3,life insurance,1,none,yes
+761,5045,59,female div/sep/mar/wid,skilled,>=7,no known savings,own,4,car,1,yes,yes
+762,2124,24,female div/sep/mar/wid,skilled,1<=X<4,<100,rent,4,real estate,1,none,yes
+763,2214,24,male single,unskilled resident,1<=X<4,<100,own,3,life insurance,1,none,yes
+764,12680,30,male single,high qualif/self emp/mgmt,>=7,no known savings,for free,4,no known property,1,yes,yes
+765,2463,27,male div/sep/mar/wid,skilled,4<=X<7,100<=X<500,own,3,life insurance,1,yes,yes
+766,1155,40,male div/sep/mar/wid,unskilled resident,>=7,<100,own,3,real estate,1,none,yes
+767,3108,31,male div/sep/mar/wid,unskilled resident,<1,<100,own,4,life insurance,1,none,yes
+768,2901,31,female div/sep/mar/wid,skilled,<1,no known savings,rent,4,real estate,1,none,yes
+769,3617,28,male single,skilled,>=7,<100,rent,4,car,1,yes,yes
+770,1655,63,male single,unskilled resident,>=7,<100,own,4,real estate,1,yes,yes
+771,2812,26,female div/sep/mar/wid,skilled,>=7,no known savings,rent,4,real estate,1,none,yes
+772,8065,25,female div/sep/mar/wid,high qualif/self emp/mgmt,1<=X<4,<100,own,2,no known property,1,yes,yes
+773,3275,36,male single,high qualif/self emp/mgmt,>=7,<100,own,4,car,1,yes,yes
+774,2223,52,male single,skilled,>=7,100<=X<500,own,4,life insurance,1,none,yes
+775,1480,66,male single,unemp/unskilled non res,unemployed,500<=X<1000,for free,4,no known property,1,none,yes
+776,1371,25,female div/sep/mar/wid,skilled,1<=X<4,no known savings,rent,4,real estate,1,none,yes
+777,3535,37,male single,skilled,4<=X<7,<100,own,4,car,1,yes,yes
+778,3509,25,female div/sep/mar/wid,skilled,4<=X<7,<100,own,1,real estate,1,none,yes
+779,5711,38,male single,high qualif/self emp/mgmt,>=7,>=1000,own,2,car,1,yes,yes
+780,3872,67,female div/sep/mar/wid,skilled,unemployed,<100,own,4,car,1,yes,yes
+781,4933,25,male single,skilled,4<=X<7,<100,own,2,real estate,1,none,yes
+782,1940,60,male single,skilled,>=7,>=1000,own,4,real estate,1,yes,yes
+783,1410,31,male single,unskilled resident,1<=X<4,<100,own,2,real estate,1,yes,yes
+784,836,23,female div/sep/mar/wid,unskilled resident,<1,100<=X<500,own,2,life insurance,1,none,yes
+785,6468,60,male div/sep/mar/wid,high qualif/self emp/mgmt,unemployed,no known savings,own,4,real estate,1,yes,yes
+786,1941,35,male single,unskilled resident,1<=X<4,>=1000,own,2,life insurance,1,yes,yes
+787,2675,40,male single,skilled,>=7,500<=X<1000,own,4,car,1,none,yes
+788,2751,38,male single,skilled,>=7,no known savings,own,3,car,2,yes,yes
+789,6224,50,male single,skilled,>=7,<100,for free,4,no known property,1,none,yes
+790,5998,27,male single,skilled,1<=X<4,<100,own,3,no known property,1,yes,yes
+791,1188,39,female div/sep/mar/wid,skilled,>=7,<100,own,4,life insurance,2,none,yes
+792,6313,41,male single,high qualif/self emp/mgmt,>=7,no known savings,own,4,car,2,yes,yes
+793,1221,27,male div/sep/mar/wid,skilled,1<=X<4,no known savings,own,2,life insurance,1,none,yes
+794,2892,51,male div/sep/mar/wid,skilled,>=7,<100,for free,4,no known property,1,none,yes
+795,3062,32,male single,skilled,>=7,500<=X<1000,rent,3,no known property,1,yes,yes
+796,2301,22,female div/sep/mar/wid,skilled,<1,100<=X<500,rent,4,life insurance,1,none,yes
+797,7511,51,male single,skilled,>=7,no known savings,for free,4,life insurance,2,yes,yes
+798,1258,22,female div/sep/mar/wid,unskilled resident,<1,<100,rent,4,life insurance,1,none,yes
+799,717,54,male div/sep/mar/wid,skilled,>=7,no known savings,own,4,car,1,yes,yes
+800,1549,35,male single,unemp/unskilled non res,<1,no known savings,own,2,real estate,1,none,yes
+801,1597,54,male single,skilled,>=7,<100,for free,4,no known property,2,none,yes
+802,1795,48,female div/sep/mar/wid,unskilled resident,>=7,<100,rent,4,real estate,1,yes,yes
+803,4272,24,female div/sep/mar/wid,skilled,>=7,<100,own,4,life insurance,1,none,yes
+804,976,35,male single,skilled,>=7,no known savings,own,4,car,1,none,yes
+805,7472,24,female div/sep/mar/wid,unemp/unskilled non res,unemployed,no known savings,rent,2,real estate,1,none,yes
+806,9271,24,male single,skilled,4<=X<7,<100,own,1,car,1,yes,yes
+807,590,26,male div/sep/mar/wid,unskilled resident,<1,<100,own,3,real estate,1,none,no
+808,930,65,male single,skilled,>=7,no known savings,own,4,real estate,1,none,yes
+809,9283,55,male single,high qualif/self emp/mgmt,unemployed,<100,for free,2,no known property,1,yes,yes
+810,1778,26,female div/sep/mar/wid,unemp/unskilled non res,<1,<100,rent,1,real estate,1,none,yes
+811,907,26,male div/sep/mar/wid,skilled,<1,<100,own,2,real estate,1,yes,yes
+812,484,28,male div/sep/mar/wid,unskilled resident,4<=X<7,<100,own,3,real estate,1,none,yes
+813,9629,24,male single,skilled,4<=X<7,<100,own,4,car,1,yes,yes
+814,3051,54,male single,skilled,1<=X<4,<100,own,4,car,1,none,yes
+815,3931,46,male single,skilled,4<=X<7,<100,for free,4,no known property,2,none,yes
+816,7432,54,female div/sep/mar/wid,skilled,1<=X<4,<100,rent,2,life insurance,1,none,yes
+817,1338,62,male div/sep/mar/wid,skilled,1<=X<4,500<=X<1000,own,4,real estate,1,none,yes
+818,1554,24,female div/sep/mar/wid,skilled,4<=X<7,<100,rent,2,car,1,yes,yes
+819,15857,43,male div/sep/mar/wid,high qualif/self emp/mgmt,unemployed,<100,own,3,car,1,none,yes
+820,1345,26,male div/sep/mar/wid,skilled,1<=X<4,<100,own,3,real estate,1,none,yes
+821,1101,27,male div/sep/mar/wid,skilled,1<=X<4,<100,own,2,real estate,1,yes,yes
+822,3016,24,male div/sep/mar/wid,skilled,1<=X<4,<100,own,1,car,1,none,yes
+823,2712,41,male single,skilled,>=7,<100,own,2,life insurance,2,none,yes
+824,731,47,male single,unskilled resident,>=7,<100,own,4,real estate,1,none,yes
+825,3780,35,male div/sep/mar/wid,high qualif/self emp/mgmt,<1,<100,own,2,car,1,yes,yes
+826,1602,30,male div/sep/mar/wid,skilled,>=7,<100,own,3,car,1,yes,yes
+827,3966,33,female div/sep/mar/wid,skilled,>=7,<100,rent,4,real estate,1,yes,yes
+828,4165,36,male single,skilled,1<=X<4,<100,own,2,car,2,none,yes
+829,8335,47,male single,skilled,>=7,no known savings,for free,4,no known property,1,none,yes
+830,6681,38,male single,skilled,1<=X<4,no known savings,for free,4,no known property,2,yes,yes
+831,2375,44,male single,skilled,1<=X<4,500<=X<1000,own,2,car,2,yes,yes
+832,1216,23,female div/sep/mar/wid,skilled,<1,<100,rent,3,car,1,yes,yes
+833,11816,29,male single,skilled,>=7,<100,rent,4,car,1,none,yes
+834,5084,42,female div/sep/mar/wid,skilled,>=7,no known savings,own,4,car,1,yes,yes
+835,2327,25,female div/sep/mar/wid,unskilled resident,<1,<100,own,3,real estate,1,none,yes
+836,1082,48,male single,skilled,1<=X<4,<100,own,4,car,1,none,yes
+837,886,21,female div/sep/mar/wid,skilled,1<=X<4,no known savings,own,2,car,1,none,yes
+838,601,23,female div/sep/mar/wid,unskilled resident,<1,<100,rent,3,real estate,2,none,yes
+839,2957,63,male single,skilled,>=7,<100,own,4,life insurance,1,yes,yes
+840,2611,46,male div/sep/mar/wid,skilled,>=7,<100,own,3,real estate,1,none,yes
+841,5179,29,male single,skilled,4<=X<7,<100,own,2,life insurance,1,none,yes
+842,2993,28,male single,unskilled resident,1<=X<4,<100,own,2,real estate,1,none,yes
+843,1943,23,female div/sep/mar/wid,skilled,<1,<100,own,4,real estate,1,none,yes
+844,1559,50,male single,skilled,4<=X<7,<100,own,4,car,1,yes,yes
+845,3422,47,male single,skilled,>=7,<100,own,4,life insurance,2,yes,yes
+846,3976,35,male single,skilled,4<=X<7,no known savings,own,3,car,1,yes,yes
+847,6761,68,male single,skilled,1<=X<4,no known savings,rent,4,car,1,none,yes
+848,1249,28,male div/sep/mar/wid,skilled,<1,<100,own,2,real estate,1,none,yes
+849,1364,59,male single,skilled,4<=X<7,<100,own,4,real estate,1,none,yes
+850,709,57,male single,unskilled resident,>=7,<100,own,4,real estate,1,none,yes
+851,2235,33,male div/sep/mar/wid,skilled,1<=X<4,<100,rent,2,life insurance,1,none,no
+852,4042,43,male single,skilled,4<=X<7,no known savings,own,4,life insurance,1,yes,yes
+853,1471,35,male single,skilled,1<=X<4,<100,for free,4,no known property,1,yes,yes
+854,1442,32,male single,unskilled resident,4<=X<7,<100,for free,4,no known property,2,none,yes
+855,10875,45,male single,skilled,>=7,<100,own,2,car,2,yes,yes
+856,1474,33,male div/sep/mar/wid,skilled,<1,100<=X<500,own,3,real estate,1,yes,yes
+857,894,40,female div/sep/mar/wid,skilled,4<=X<7,no known savings,own,3,life insurance,1,yes,yes
+858,3343,28,male single,skilled,1<=X<4,<100,for free,2,no known property,1,yes,yes
+859,3959,29,female div/sep/mar/wid,skilled,1<=X<4,<100,own,2,life insurance,1,yes,yes
+860,3577,26,male single,skilled,1<=X<4,100<=X<500,rent,2,real estate,2,none,no
+861,5804,27,male single,skilled,1<=X<4,>=1000,own,2,real estate,1,none,yes
+862,2169,28,male div/sep/mar/wid,skilled,1<=X<4,<100,own,2,car,1,yes,yes
+863,2439,35,female div/sep/mar/wid,skilled,<1,<100,own,4,real estate,1,yes,yes
+864,4526,32,male single,unskilled resident,<1,>=1000,own,2,real estate,2,yes,yes
+865,2210,25,male single,unskilled resident,1<=X<4,<100,rent,2,real estate,1,none,yes
+866,2221,20,female div/sep/mar/wid,skilled,1<=X<4,500<=X<1000,rent,4,car,1,none,yes
+867,2389,27,female div/sep/mar/wid,skilled,<1,<100,own,1,car,1,none,yes
+868,3331,42,male single,skilled,>=7,<100,own,4,life insurance,1,none,yes
+869,7409,37,male single,skilled,>=7,no known savings,own,2,life insurance,1,none,yes
+870,652,24,female div/sep/mar/wid,skilled,>=7,<100,rent,4,life insurance,1,none,yes
+871,7678,40,female div/sep/mar/wid,skilled,4<=X<7,500<=X<1000,own,4,car,1,yes,yes
+872,1343,46,male single,skilled,>=7,<100,own,4,real estate,2,none,no
+873,1382,26,male single,skilled,4<=X<7,100<=X<500,own,1,real estate,1,yes,yes
+874,874,24,female div/sep/mar/wid,skilled,<1,no known savings,own,1,real estate,1,none,yes
+875,3590,29,male single,unskilled resident,1<=X<4,<100,own,2,life insurance,2,none,yes
+876,1322,40,female div/sep/mar/wid,skilled,1<=X<4,>=1000,own,4,car,1,none,yes
+877,1940,36,male single,high qualif/self emp/mgmt,<1,<100,for free,4,no known property,1,yes,yes
+878,3595,28,male single,skilled,>=7,<100,own,2,car,1,none,yes
+879,1422,27,male single,high qualif/self emp/mgmt,<1,<100,for free,2,no known property,1,yes,yes
+880,6742,36,male single,skilled,4<=X<7,no known savings,own,3,life insurance,1,none,yes
+881,7814,38,male single,high qualif/self emp/mgmt,4<=X<7,<100,own,3,car,1,yes,yes
+882,9277,48,male div/sep/mar/wid,skilled,1<=X<4,no known savings,for free,4,no known property,1,yes,yes
+883,2181,36,male single,skilled,>=7,no known savings,own,4,real estate,1,none,yes
+884,1098,65,female div/sep/mar/wid,unemp/unskilled non res,unemployed,<100,own,4,car,1,none,yes
+885,4057,43,male div/sep/mar/wid,skilled,4<=X<7,<100,own,3,car,1,yes,yes
+886,795,53,female div/sep/mar/wid,skilled,<1,<100,own,4,life insurance,1,none,yes
+887,2825,34,male single,skilled,4<=X<7,no known savings,own,3,no known property,2,yes,yes
+888,15672,23,male single,skilled,1<=X<4,<100,own,2,car,1,yes,yes
+889,6614,34,male single,high qualif/self emp/mgmt,>=7,<100,own,4,car,1,yes,yes
+890,7824,40,male single,skilled,<1,no known savings,rent,4,real estate,2,yes,yes
+891,2442,43,male single,high qualif/self emp/mgmt,>=7,<100,own,4,car,2,yes,yes
+892,1829,46,male single,skilled,>=7,<100,own,4,car,1,yes,yes
+893,2171,38,male single,unskilled resident,1<=X<4,<100,own,4,life insurance,1,none,no
+894,5800,34,male single,skilled,1<=X<4,<100,own,4,car,1,yes,yes
+895,1169,29,male single,skilled,1<=X<4,no known savings,own,3,life insurance,1,yes,yes
+896,8947,31,male single,high qualif/self emp/mgmt,4<=X<7,no known savings,own,2,car,2,yes,yes
+897,2606,28,female div/sep/mar/wid,high qualif/self emp/mgmt,<1,<100,rent,4,life insurance,1,yes,yes
+898,1592,35,female div/sep/mar/wid,skilled,4<=X<7,>=1000,own,2,life insurance,1,none,no
+899,2186,33,female div/sep/mar/wid,unskilled resident,4<=X<7,no known savings,rent,4,real estate,1,none,yes
+900,4153,42,male single,skilled,1<=X<4,<100,own,3,car,1,none,yes
+901,2625,43,male single,skilled,>=7,<100,rent,4,life insurance,1,yes,yes
+902,3485,44,male div/sep/mar/wid,skilled,<1,no known savings,own,4,real estate,1,yes,yes
+903,10477,42,male single,skilled,>=7,no known savings,for free,4,no known property,1,none,yes
+904,1386,40,male div/sep/mar/wid,skilled,1<=X<4,no known savings,rent,2,real estate,1,yes,yes
+905,1278,36,male single,high qualif/self emp/mgmt,>=7,<100,own,1,real estate,1,yes,yes
+906,1107,20,male single,high qualif/self emp/mgmt,1<=X<4,<100,rent,2,real estate,2,yes,yes
+907,3763,24,male single,unskilled resident,4<=X<7,no known savings,own,2,real estate,1,none,no
+908,3711,27,male div/sep/mar/wid,skilled,1<=X<4,no known savings,own,2,car,1,none,yes
+909,3594,46,female div/sep/mar/wid,unskilled resident,<1,<100,own,2,life insurance,1,none,yes
+910,3195,33,female div/sep/mar/wid,unskilled resident,1<=X<4,no known savings,own,2,real estate,1,none,yes
+911,4454,34,female div/sep/mar/wid,skilled,1<=X<4,<100,own,4,real estate,1,none,yes
+912,4736,25,female div/sep/mar/wid,unskilled resident,<1,<100,own,4,car,1,none,yes
+913,2991,25,female div/sep/mar/wid,skilled,>=7,no known savings,own,4,car,1,none,yes
+914,2142,28,male div/sep/mar/wid,skilled,>=7,>=1000,own,2,real estate,1,yes,yes
+915,3161,31,male single,skilled,1<=X<4,<100,rent,2,life insurance,1,yes,yes
+916,18424,32,female div/sep/mar/wid,high qualif/self emp/mgmt,1<=X<4,<100,own,2,life insurance,1,yes,no
+917,2848,32,male single,skilled,1<=X<4,100<=X<500,own,2,real estate,2,none,yes
+918,14896,68,male single,high qualif/self emp/mgmt,>=7,<100,own,4,no known property,1,yes,yes
+919,2359,33,male div/sep/mar/wid,skilled,unemployed,100<=X<500,own,1,life insurance,1,none,yes
+920,3345,39,male single,high qualif/self emp/mgmt,>=7,<100,rent,2,life insurance,1,yes,yes
+921,1817,28,female div/sep/mar/wid,skilled,1<=X<4,<100,own,2,no known property,1,none,yes
+922,12749,37,male single,high qualif/self emp/mgmt,4<=X<7,500<=X<1000,own,1,car,1,yes,yes
+923,1366,22,female div/sep/mar/wid,skilled,<1,<100,rent,4,life insurance,1,none,yes
+924,2002,30,male single,skilled,4<=X<7,<100,rent,4,life insurance,2,yes,yes
+925,6872,55,male div/sep/mar/wid,skilled,<1,<100,own,1,life insurance,1,yes,yes
+926,697,46,male single,skilled,<1,<100,own,2,car,1,yes,yes
+927,1049,21,female div/sep/mar/wid,skilled,<1,<100,rent,4,life insurance,1,none,yes
+928,10297,39,male single,skilled,4<=X<7,<100,for free,4,no known property,2,yes,yes
+929,1867,58,male single,skilled,>=7,no known savings,own,4,car,1,yes,yes
+930,1344,43,male single,unskilled resident,1<=X<4,<100,own,2,real estate,2,none,yes
+931,1747,24,male single,unskilled resident,<1,<100,own,1,life insurance,1,none,no
+932,1670,22,female div/sep/mar/wid,skilled,<1,<100,own,2,car,1,yes,yes
+933,1224,30,male single,skilled,1<=X<4,<100,own,1,real estate,1,none,yes
+934,522,42,male single,skilled,>=7,500<=X<1000,own,4,life insurance,2,yes,yes
+935,1498,23,female div/sep/mar/wid,skilled,1<=X<4,<100,own,1,car,1,none,yes
+936,1919,30,male single,high qualif/self emp/mgmt,<1,100<=X<500,own,3,no known property,1,none,yes
+937,745,28,female div/sep/mar/wid,unskilled resident,1<=X<4,<100,own,2,real estate,1,none,yes
+938,2063,30,male div/sep/mar/wid,high qualif/self emp/mgmt,<1,<100,rent,3,car,1,yes,yes
+939,6288,42,male single,skilled,1<=X<4,<100,for free,4,no known property,1,none,yes
+940,6842,46,male single,high qualif/self emp/mgmt,1<=X<4,no known savings,own,4,life insurance,2,yes,yes
+941,3527,45,male single,high qualif/self emp/mgmt,<1,no known savings,own,3,life insurance,2,yes,yes
+942,1546,31,male single,unskilled resident,1<=X<4,<100,own,2,real estate,2,none,no
+943,929,31,male single,skilled,4<=X<7,no known savings,own,2,car,1,yes,yes
+944,1455,42,male single,unskilled resident,4<=X<7,<100,own,1,real estate,2,none,yes
+945,1845,46,female div/sep/mar/wid,skilled,<1,<100,rent,1,life insurance,1,none,yes
+946,8358,30,female div/sep/mar/wid,skilled,<1,500<=X<1000,own,1,car,1,none,yes
+947,3349,30,male single,skilled,<1,500<=X<1000,for free,4,no known property,2,yes,yes
+948,2859,38,male single,high qualif/self emp/mgmt,unemployed,no known savings,own,4,no known property,1,yes,yes
+949,1533,43,male div/sep/mar/wid,unskilled resident,<1,<100,own,1,life insurance,2,none,yes
+950,3621,31,male single,skilled,>=7,100<=X<500,own,4,car,1,none,yes
+951,3590,40,male div/sep/mar/wid,unemp/unskilled non res,unemployed,<100,own,3,car,2,yes,yes
+952,2145,24,male single,skilled,4<=X<7,<100,own,1,car,1,yes,yes
+953,4113,28,female div/sep/mar/wid,skilled,<1,500<=X<1000,rent,4,car,1,none,yes
+954,10974,26,female div/sep/mar/wid,high qualif/self emp/mgmt,unemployed,<100,own,2,car,1,yes,yes
+955,1893,29,female div/sep/mar/wid,skilled,1<=X<4,<100,own,4,life insurance,1,yes,yes
+956,1231,57,female div/sep/mar/wid,high qualif/self emp/mgmt,>=7,>=1000,rent,4,life insurance,1,yes,yes
+957,3656,49,male single,unskilled resident,>=7,no known savings,own,4,life insurance,1,none,yes
+958,1154,37,male single,unskilled resident,>=7,<100,own,4,real estate,1,none,yes
+959,4006,45,male single,unskilled resident,1<=X<4,<100,own,2,car,1,none,yes
+960,3069,30,male single,skilled,>=7,100<=X<500,for free,4,no known property,1,none,yes
+961,1740,30,male div/sep/mar/wid,skilled,>=7,<100,rent,2,real estate,1,none,yes
+962,2353,47,male div/sep/mar/wid,skilled,1<=X<4,<100,own,4,life insurance,1,none,yes
+963,3556,29,male single,skilled,1<=X<4,no known savings,own,2,no known property,1,none,yes
+964,2397,35,male single,skilled,>=7,500<=X<1000,own,2,car,1,yes,yes
+965,454,22,male div/sep/mar/wid,unskilled resident,<1,<100,own,1,life insurance,1,none,yes
+966,1715,26,female div/sep/mar/wid,skilled,1<=X<4,no known savings,own,1,car,1,none,yes
+967,2520,23,male single,unskilled resident,1<=X<4,500<=X<1000,own,2,life insurance,1,none,yes
+968,3568,54,female div/sep/mar/wid,high qualif/self emp/mgmt,>=7,<100,rent,2,car,1,yes,yes
+969,7166,29,male div/sep/mar/wid,skilled,4<=X<7,no known savings,rent,4,life insurance,1,yes,yes
+970,3939,40,male single,unskilled resident,1<=X<4,<100,own,2,real estate,2,none,yes
+971,1514,22,male single,skilled,1<=X<4,100<=X<500,own,2,real estate,1,none,yes
+972,7393,43,male single,unskilled resident,1<=X<4,<100,own,4,life insurance,2,none,yes
+973,1193,29,female div/sep/mar/wid,unemp/unskilled non res,unemployed,<100,rent,4,no known property,1,none,yes
+974,7297,36,male single,skilled,>=7,<100,rent,4,no known property,1,none,yes
+975,2831,33,female div/sep/mar/wid,skilled,1<=X<4,<100,own,2,car,1,yes,yes
+976,1258,57,female div/sep/mar/wid,unskilled resident,1<=X<4,500<=X<1000,own,3,car,1,none,yes
+977,753,64,female div/sep/mar/wid,skilled,1<=X<4,<100,own,3,real estate,1,none,yes
+978,2427,42,male single,skilled,>=7,no known savings,own,2,life insurance,1,none,yes
+979,2538,47,male single,unskilled resident,>=7,<100,own,4,car,2,none,yes
+980,1264,25,male div/sep/mar/wid,skilled,1<=X<4,100<=X<500,rent,2,life insurance,1,none,yes
+981,8386,49,male single,skilled,4<=X<7,<100,own,2,life insurance,1,none,yes
+982,4844,33,male single,high qualif/self emp/mgmt,unemployed,<100,rent,2,car,1,yes,yes
+983,2923,28,female div/sep/mar/wid,high qualif/self emp/mgmt,1<=X<4,100<=X<500,own,1,car,1,yes,yes
+984,8229,26,male single,skilled,1<=X<4,<100,own,2,life insurance,2,none,yes
+985,2028,30,male single,unskilled resident,4<=X<7,<100,own,2,life insurance,1,none,yes
+986,1433,25,female div/sep/mar/wid,skilled,1<=X<4,<100,rent,3,life insurance,1,none,yes
+987,6289,33,male div/sep/mar/wid,skilled,<1,<100,own,1,life insurance,1,none,yes
+988,1409,64,female div/sep/mar/wid,skilled,unemployed,100<=X<500,own,4,real estate,1,none,yes
+989,6579,29,male single,high qualif/self emp/mgmt,unemployed,<100,for free,2,no known property,1,yes,yes
+990,1743,48,male single,unskilled resident,>=7,<100,own,2,life insurance,1,none,yes
+991,3565,37,male single,unskilled resident,<1,no known savings,own,1,life insurance,2,none,yes
+992,1569,34,male single,unskilled resident,>=7,100<=X<500,own,4,car,2,none,yes
+993,1936,23,male div/sep/mar/wid,unskilled resident,4<=X<7,no known savings,rent,4,car,1,none,yes
+994,3959,30,male single,high qualif/self emp/mgmt,unemployed,<100,own,3,life insurance,1,yes,yes
+995,2390,50,male single,skilled,>=7,no known savings,own,3,car,1,yes,yes
+996,1736,31,female div/sep/mar/wid,unskilled resident,4<=X<7,<100,own,4,real estate,1,none,yes
+997,3857,40,male div/sep/mar/wid,high qualif/self emp/mgmt,1<=X<4,<100,own,4,life insurance,1,yes,yes
+998,804,38,male single,skilled,>=7,<100,own,4,car,1,none,yes
+999,1845,23,male single,skilled,1<=X<4,<100,for free,4,no known property,1,yes,yes
+1000,4576,27,male single,skilled,unemployed,100<=X<500,own,4,car,1,none,yes

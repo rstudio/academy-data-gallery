@@ -1,0 +1,7 @@
+variable,description
+disease,The name of the Infectious Diseases reported.
+county,The county in which the case resided when they were diagnosed and State-wide total.
+year,Estimated onset date is the date closest to the time when symptoms first appeared from 2001 - 2020.
+sex,The patient's sex as reported by the provider.
+rate,"The number of cases per 100,000 population per County, Year, and Sex using the calculation ((Cases*100,000)/Population)."
+population,"The estimated population size (rounded to the nearest integer) for each County, Year, Sex strata."

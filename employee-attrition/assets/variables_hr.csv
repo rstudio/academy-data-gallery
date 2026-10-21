@@ -1,0 +1,23 @@
+variable,description
+employee_number,Employee ID
+age,Age
+attrition,"Has the employee left the company? (No, Yes)"
+business_travel,"How often does the employee travel for their job? (Non-Travel, Travel_Frequently, Travel_Rarely)"
+department,"Department within the company (HR, R&D, Sales)"
+distance_from_home,Distance from work to home (miles)
+education,"Level of education (No college, Some college, Bachelors, Masters, Doctorate)"
+education_field,"Field of education (Human Resources, Life Sciences, Marketing, Medical, Other, Technical Degree)"
+environment_satisfaction,"Level of satisfaction with working environment (Low, Medium, High, Very High)"
+gender,"Gender (Female, Male)"
+job_involvement,"Level of job involvement (Low, Medium, High, Very High)"
+job_role,"Job role (Healthcare Representative, Human Resources, Laboratory Technician, Manager, Manufacturing Director, Research Director, Research Scientist, Sales Executive, Sales Representative)"
+job_satisfaction,"Level of job satisfaction (Low, Medium, High, Very High)"
+marital_status,"Martial atatus (Divorced, Married, Single)"
+monthly_income,Monthly income (USD)
+num_companies_worked,Number of companies at which employee has previously worked
+over_time,"Does employee work overtime? (No, Yes)"
+percent_salary_hike,Percentage increase in salary since joining the company
+performance_rating,"Performance rating (Low, Good, Excellent, Outstanding)"
+relationship_satisfaction,"Level of relationship satisfaction with coworkers (Low, Medium, High, Very High)"
+training_times_last_year,Number of hours employee has spent in mandatory training in the last year
+work_life_balance,"Level of work-life balance (Bad, Good, Better, Best)"

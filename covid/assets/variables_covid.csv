@@ -1,0 +1,7 @@
+variable,description
+date,Date on which data was collected by The COVID Tracking Project.
+state,Two-letter abbreviation for the state or territory.
+tests,Daily increase in tests
+cases,The daily increase in positive and probable cases
+hospitalizations,The daily increase in hospitalizations
+deaths,The daily increase in deaths

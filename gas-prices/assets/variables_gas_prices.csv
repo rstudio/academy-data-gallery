@@ -1,0 +1,16 @@
+variable,description
+date,Time period name (year-month-day format)
+all_prices,"Average prices of all motor gasoline grades (regular, midgrade, premium) and formulations (conventional, reformulated)"
+all_conv_prices,Price of conventional gasoline of any grade
+all_ref_prices,Price of reformulated gasoline of any grade
+rg_all_prices,"Price of all regular gasoline, the gasoline having an antiknock, i.e., octane rating index between 85 and 88."
+rg_conv_prices,Price of all regular conventional gasoline
+rg_ref_prices,Price of all regular reformulated gasoline
+mg_all_prices,"Price of all midgrade gasoline, the gasoline having an antiknock, i.e., octane rating index between 88 and 90."
+mg_conv_prices,Price of all midgrade conventional gasoline
+mg_ref_prices,Price of all midgrade reformulated gasoline
+pr_all_prices,"Price of all midgrade gasoline, the gasoline having an antiknock, i.e., octane rating index greater than 90."
+pr_conv_prices,Price of all premium conventional gasoline
+pr_ref_prices,Price of all premium reformulated gasoline
+year,Year name
+month,Month name

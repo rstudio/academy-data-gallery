@@ -1,0 +1,7 @@
+variable,description
+employee_number,Employee ID
+total_working_years,Total years worked
+years_at_company,Number of years at company
+years_in_current_role,Number of years in current role
+years_since_last_promotion,Number of years since last promotion
+years_with_curr_manager,Number of years spent with current manager

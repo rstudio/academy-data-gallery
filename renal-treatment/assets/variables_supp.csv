@@ -1,0 +1,5 @@
+variable, description
+ptid,Patient identifier
+sex,Sex
+age,Age (years)
+height,Height (meters)

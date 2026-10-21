@@ -1,0 +1,7 @@
+variable,description
+year,Time period name (year format)
+fuel_type,Fuel type category
+number_of_vehicles,Number of vehicles of that category
+weight_class,"The weight class of the vehicle, includes Light Duty, Medium Duty, and Heavy Duty"
+vehicle_type,"The type and size of the on-road vehicle (i.e., compact autos, pickup trucks, vans)"
+engine_configuration,"Refers to whether the vehicle operates exclusively on alternative fuel (dedicated) or on a combination of alternative fuel and traditional fuel (e.g., bi-fueled, flexible fueled). In our data, it's either dedicated or non-dedicated."

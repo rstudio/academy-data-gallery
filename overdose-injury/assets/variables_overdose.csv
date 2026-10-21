@@ -1,0 +1,18 @@
+variable,description
+state,"State or region (abbreviated name). Includes the United States, (US) District of Columbia (DC) and New York City (YC)"
+state_name,"State or region (full name). Includes the United States, District of Columbia and New York City"
+year,Year
+month_ending,The ending month of the 12-month ending period
+percent_pending_investigation,Percentage of records pending investigation.
+percent_with_drugs_specified,Percentage of records with specific drugs or drug classes reported. The percentage with at least one drug or drug class specified is defined as that with at least one ICD-10 multiple cause-of-death code in the range T36-T50.8.
+deaths,Number of total deaths
+overdose_deaths,Number of drug overdose deaths
+opioids,"Number of drug overdose deaths involving opioids (ICD-10 code: T40.0-T40.4,T40.6)"
+synth_opioids_excl_meth,Number of drug overdose deaths involving synthetic opioids excluding methadone (ICD-10 code: T40.4)
+natural_semi_opioids,Number of drug overdose deaths involving natural and semi-synthetic opioids (ICD-10 code: T40.2)
+natural_semi_opioids_incl_methadone,"Number of drug overdose deaths involving natural and semi-synthetic opioids, including methadone (ICD-10 code: T40.2-T40.3)"
+natural_semi_synth_opioids_incl_methadone,"Number of drug overdose deaths involving natural, semi-synthetic, or synthetic opioids, including methadone (ICD-10 code: T40.2-T40.4)"
+cocaine,Number of drug overdose deaths involving cocaine (ICD-10 code: T40.5)
+heroin,Number of drug overdose deaths involving heroin (ICD-10 code: T40.1)
+methadone,Number of drug overdose deaths involving methadone (ICD-10 code: T40.3)
+psychostimulants,Number of drug overdose deaths involving psychostimulants with abuse potential (ICD-10 code: T43.6)

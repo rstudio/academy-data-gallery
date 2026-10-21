@@ -1,0 +1,17 @@
+variable,description
+date,Time period name (year-month-day format)
+all_sales,"Average sales of all motor gasoline grades (regular, midgrade, premium) and formulations (conventional, reformulated, oxygenated)"
+rg_all_sales,Sales of all regular gasoline
+rg_conv_sales,Sales of all regular conventional gasoline
+rg_oxy_sales,Sales of all regular oxygenated gasoline
+rg_ref_sales,Price of all regular reformulated gasoline
+mg_all_sales,Sales of all midgrade gasoline
+mg_conv_sales,Sales of all midgrade conventional gasoline
+mg_oxy_sales,Sales of all midgrade oxygenated gasoline
+mg_ref_sales,Sales of all midgrade reformulated gasoline
+pr_all_sales,Sales of all midgrade gasoline
+pr_conv_sales,Sales of all premium conventional gasoline
+pr_oxy_sales,Sales of all premium oxygenated gasoline
+pr_ref_sales,Sale of all premium reformulated gasoline
+year,Year name
+month,Month name

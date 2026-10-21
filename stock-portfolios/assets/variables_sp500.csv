@@ -1,0 +1,5 @@
+variable,description
+symbol,"Stock symbol"
+date,"Trading day"
+event,"Variable indicating whether the reported price is opening, highest, lowest, closest, or adjusted price"
+price,"Traded price of the stock on the date (dollars)"

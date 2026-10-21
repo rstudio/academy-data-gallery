@@ -1,0 +1,5 @@
+variable,description
+state,"State or region; includes the United States, District of Columbia and Puerto Rico"
+year,Year
+pop,Population
+density,Population density

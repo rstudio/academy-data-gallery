@@ -1,0 +1,12 @@
+﻿variable,description
+environ,Environment (combination of year and location)
+strain  ,Genetic strain
+family  ,Genetic family
+set     ,Microenvironment
+height  ,Plant height (centimeters)
+R8      ,Number of days to maturity (stage R8 = 95% of pods are fully mature)
+lodging ,Lodging score (1 = all plants erect; 5 = all plants prostrate)
+yield   ,Grain yield (Kg/ha)
+protein ,Percentage of protein in the seed
+oil     ,Percentage of oil in the seed
+size,Mass of 100 seeds (grams)

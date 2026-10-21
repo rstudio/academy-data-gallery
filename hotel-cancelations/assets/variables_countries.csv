@@ -1,0 +1,4 @@
+variable,description
+country_name,Name of country
+alpha_2,Two character country code
+alpha_3,Three character country code

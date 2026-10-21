@@ -1,0 +1,9 @@
+variable,description
+symbol,"Stock symbol"
+date,"Trading day"
+open,"Price of the stock at market open (dollars)"
+high,"Highest traded price of the stock on the date (dollars)"
+low,"Lowest traded price of the stock on the date (dollars)"
+close,"Price of the stock at market close (dollars)"
+volume,"Number of shares traded on the date"
+adjusted,"Closing price adjusted to reflect any corporate actions, such as a stock split or dividend."
